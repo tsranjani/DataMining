@@ -1,0 +1,1901 @@
+iso3,country,year,alcohol_liters,hypertension_pct,obesity_pct,tobacco_daily_pct,obesity_pct_imputed,hypertension_pct_imputed,tobacco_daily_pct_imputed,alcohol_liters_imputed
+AFG,Afghanistan,2010,0.0,38.2,8.9501388,30.2,False,False,False,False
+AFG,Afghanistan,2011,0.0,38.4,9.5871173,29.48,False,False,True,False
+AFG,Afghanistan,2012,0.0,38.6,10.262612,28.76,False,False,True,False
+AFG,Afghanistan,2013,0.0,38.8,10.982534,28.04,False,False,True,False
+AFG,Afghanistan,2014,0.0,39.0,11.748241,27.32,False,False,True,False
+AFG,Afghanistan,2015,0.0,39.2,12.56313,26.6,False,False,False,False
+AFG,Afghanistan,2016,0.0,39.5,13.425334,26.6,False,False,True,False
+AFG,Afghanistan,2017,0.0,39.7,14.325637,26.6,False,False,True,False
+AFG,Afghanistan,2018,0.0,39.9,15.25583,,False,False,False,False
+AFG,Afghanistan,2019,0.0,40.2,16.21054,,False,False,False,False
+AGO,Angola,2010,7.422695027,39.3,8.0547146,,False,False,False,False
+AGO,Angola,2011,7.483571111,39.3,8.2899854,,False,False,False,False
+AGO,Angola,2012,7.576557707,39.3,8.5220776,,False,False,False,False
+AGO,Angola,2013,7.422689487,39.2,8.7573476,,False,False,False,False
+AGO,Angola,2014,7.825204731,39.1,9.0023339,,False,False,False,False
+AGO,Angola,2015,6.308197477,39.1,9.2609555,,False,False,False,False
+AGO,Angola,2016,5.757655779,39.0,9.5323823,,False,False,False,False
+AGO,Angola,2017,5.601472832,38.9,9.8170705,,False,False,False,False
+AGO,Angola,2018,5.292048243,38.8,10.116035,,False,False,False,False
+AGO,Angola,2019,4.352829603,38.7,10.430336,,False,False,False,False
+ALB,Albania,2010,4.884791265,41.5,16.569351,28.3,False,False,False,False
+ALB,Albania,2011,5.028916492,41.6,17.038259,27.72,False,False,True,False
+ALB,Albania,2012,4.234667066,41.6,17.524008,27.14,False,False,True,False
+ALB,Albania,2013,4.169147942,41.7,18.025415,26.56,False,False,True,False
+ALB,Albania,2014,4.010962792,41.7,18.544896,25.98,False,False,True,False
+ALB,Albania,2015,4.274203596,41.7,19.087026,25.4,False,False,False,False
+ALB,Albania,2016,4.332687374,41.7,19.649351,25.4,False,False,True,False
+ALB,Albania,2017,4.308384637,41.8,20.227243,25.4,False,False,True,False
+ALB,Albania,2018,4.307531605,41.8,20.816164,,False,False,False,False
+ALB,Albania,2019,4.397119347,41.8,21.41809,,False,False,False,False
+AND,Andorra,2010,10.635,34.5,16.416441,35.7,False,False,False,False
+AND,Andorra,2011,10.56,34.1,16.548447,35.72,False,False,True,False
+AND,Andorra,2012,10.42,33.7,16.665833,35.74,False,False,True,False
+AND,Andorra,2013,10.1,33.2,16.774096,35.76,False,False,True,False
+AND,Andorra,2014,9.91,32.8,16.880371,35.78,False,False,True,False
+AND,Andorra,2015,11.15,32.4,16.994801,35.8,False,False,False,False
+AND,Andorra,2016,11.315,32.0,17.121673,35.8,False,False,True,False
+AND,Andorra,2017,11.295,31.7,17.260967,35.8,False,False,True,False
+AND,Andorra,2018,10.975,31.4,17.404455,,False,False,False,False
+AND,Andorra,2019,11.07,31.0,17.555156,,False,False,False,False
+ARE,United Arab Emirates,2010,2.643786729,39.2,32.408139,13.3,False,False,False,False
+ARE,United Arab Emirates,2011,2.626083135,39.4,32.086125,12.88,False,False,True,False
+ARE,United Arab Emirates,2012,2.644990832,39.7,31.948605,12.46,False,False,True,False
+ARE,United Arab Emirates,2013,3.304786636,39.9,31.897157,12.04,False,False,True,False
+ARE,United Arab Emirates,2014,2.649071505,40.1,31.890005,11.62,False,False,True,False
+ARE,United Arab Emirates,2015,1.271427582,40.3,31.910279,11.2,False,False,False,False
+ARE,United Arab Emirates,2016,1.261520352,40.5,31.959581,11.2,False,False,True,False
+ARE,United Arab Emirates,2017,3.078253071,40.8,31.996262,11.2,False,False,True,False
+ARE,United Arab Emirates,2018,2.804520459,41.1,32.003281,,False,False,False,False
+ARE,United Arab Emirates,2019,2.494479591,41.4,32.001853,,False,False,False,False
+ARG,Argentina,2010,8.15,44.2,24.722156,29.0,False,False,False,False
+ARG,Argentina,2011,7.61,44.5,25.475958,28.52,False,False,True,False
+ARG,Argentina,2012,7.91,44.9,26.258084,28.04,False,False,True,False
+ARG,Argentina,2013,8.19,45.2,27.068126,27.560000000000002,False,False,True,False
+ARG,Argentina,2014,7.84,45.5,27.906281,27.080000000000002,False,False,True,False
+ARG,Argentina,2015,8.37,45.9,28.771749,26.6,False,False,False,False
+ARG,Argentina,2016,8.03,46.3,29.66297,26.6,False,False,True,False
+ARG,Argentina,2017,7.95,46.7,30.572641,26.6,False,False,True,False
+ARG,Argentina,2018,7.61,47.1,31.494874,,False,False,False,False
+ARG,Argentina,2019,7.14,47.5,32.434347,,False,False,False,False
+ARM,Armenia,2010,4.11181077,46.2,19.463408,28.8,False,False,False,False
+ARM,Armenia,2011,3.954954254,46.4,19.893146,28.48,False,False,True,False
+ARM,Armenia,2012,3.878879504,46.6,20.321731,28.16,False,False,True,False
+ARM,Armenia,2013,3.904640343,46.7,20.750707,27.84,False,False,True,False
+ARM,Armenia,2014,4.231402511,46.9,21.177164,27.52,False,False,True,False
+ARM,Armenia,2015,4.063100055,47.0,21.598479,27.2,False,False,False,False
+ARM,Armenia,2016,3.977225592,47.1,22.01771,27.2,False,False,True,False
+ARM,Armenia,2017,4.075317104,47.2,22.429684,27.2,False,False,True,False
+ARM,Armenia,2018,4.114823609,47.3,22.835818,,False,False,False,False
+ARM,Armenia,2019,4.466054907,47.3,23.240523,,False,False,False,False
+ATG,Antigua and Barbuda,2010,8.483530763,41.8,25.537002,,False,False,False,False
+ATG,Antigua and Barbuda,2011,8.478276999,41.9,26.168439,,False,False,False,False
+ATG,Antigua and Barbuda,2012,8.694370445,42.1,26.789513,,False,False,False,False
+ATG,Antigua and Barbuda,2013,8.908305039,42.1,27.408746,,False,False,False,False
+ATG,Antigua and Barbuda,2014,9.04388457,42.2,28.029713,,False,False,False,False
+ATG,Antigua and Barbuda,2015,8.886714652,42.3,28.659719,,False,False,False,False
+ATG,Antigua and Barbuda,2016,9.741354971,42.4,29.296759,,False,False,False,False
+ATG,Antigua and Barbuda,2017,10.84168686,42.4,29.939744,,False,False,False,False
+ATG,Antigua and Barbuda,2018,11.19968892,42.5,30.585235,,False,False,False,False
+ATG,Antigua and Barbuda,2019,11.07476971,42.6,31.235856,,False,False,False,False
+AUS,Australia,2010,10.53,29.5,24.957116,18.4,False,False,False,False
+AUS,Australia,2011,10.21,29.4,25.353968,17.9,False,False,True,False
+AUS,Australia,2012,10.09,29.4,25.741681,17.4,False,False,True,False
+AUS,Australia,2013,10.01,29.3,26.137152,16.9,False,False,True,False
+AUS,Australia,2014,9.82,29.3,26.546845,16.4,False,False,True,False
+AUS,Australia,2015,10.18,29.3,26.975617,15.9,False,False,False,False
+AUS,Australia,2016,10.19,29.3,27.423829,15.9,False,False,True,False
+AUS,Australia,2017,10.32,29.2,27.881697,15.9,False,False,True,False
+AUS,Australia,2018,10.35,29.2,28.341359,,False,False,False,False
+AUS,Australia,2019,10.12,29.3,28.802299,,False,False,False,False
+AUT,Austria,2010,12.21,39.1,14.02496,37.2,False,False,False,False
+AUT,Austria,2011,11.95,38.6,14.10085,36.06,False,False,True,False
+AUT,Austria,2012,12.16,38.0,14.16579,34.92,False,False,True,False
+AUT,Austria,2013,11.91,37.4,14.231355,33.78,False,False,True,False
+AUT,Austria,2014,12.13,36.8,14.307974,32.64,False,False,True,False
+AUT,Austria,2015,11.09,36.1,14.404292,31.5,False,False,False,False
+AUT,Austria,2016,11.44,35.5,14.518945,31.5,False,False,True,False
+AUT,Austria,2017,11.45,35.0,14.640945,31.5,False,False,True,False
+AUT,Austria,2018,11.34,34.4,14.767757,,False,False,False,False
+AUT,Austria,2019,11.69,33.8,14.900239,,False,False,False,False
+AZE,Azerbaijan,2010,0.98,39.7,20.376062,24.0,False,False,False,False
+AZE,Azerbaijan,2011,0.59,39.9,20.902582,23.6,False,False,True,False
+AZE,Azerbaijan,2012,0.52,40.1,21.428685,23.2,False,False,True,False
+AZE,Azerbaijan,2013,0.52,40.3,21.952134,22.8,False,False,True,False
+AZE,Azerbaijan,2014,0.35,40.5,22.468962,22.4,False,False,True,False
+AZE,Azerbaijan,2015,0.51,40.6,22.981963,22.0,False,False,False,False
+AZE,Azerbaijan,2016,0.4,40.7,23.496403,22.0,False,False,True,False
+AZE,Azerbaijan,2017,0.44,40.8,24.000728,22.0,False,False,True,False
+AZE,Azerbaijan,2018,0.88,40.9,24.495217,,False,False,False,False
+AZE,Azerbaijan,2019,1.37,41.0,24.988432,,False,False,False,False
+BDI,Burundi,2010,4.816299822,37.0,2.7064873,17.3,False,False,False,False
+BDI,Burundi,2011,4.486322296,36.8,2.8351024,16.7,False,False,True,False
+BDI,Burundi,2012,2.378483957,36.5,2.9680599,16.1,False,False,True,False
+BDI,Burundi,2013,3.324074849,36.3,3.1079454,15.5,False,False,True,False
+BDI,Burundi,2014,2.990843618,35.9,3.2580793,14.9,False,False,True,False
+BDI,Burundi,2015,3.099758907,35.6,3.419105,14.3,False,False,False,False
+BDI,Burundi,2016,3.084626325,35.3,3.5942536,14.3,False,False,True,False
+BDI,Burundi,2017,3.092877856,34.9,3.7859172,14.3,False,False,True,False
+BDI,Burundi,2018,3.225170272,34.6,3.9954331,,False,False,False,False
+BDI,Burundi,2019,2.961141809,34.2,4.2229492,,False,False,False,False
+BEL,Belgium,2010,10.28,34.9,17.471328,29.0,False,False,False,False
+BEL,Belgium,2011,10.14,34.5,17.652149,28.8,False,False,True,False
+BEL,Belgium,2012,10.09,34.0,17.820251,28.6,False,False,True,False
+BEL,Belgium,2013,10.33,33.4,17.98908,28.4,False,False,True,False
+BEL,Belgium,2014,10.57,32.9,18.166932,28.2,False,False,True,False
+BEL,Belgium,2015,10.36,32.3,18.358223,28.0,False,False,False,False
+BEL,Belgium,2016,9.42,31.7,18.567449,28.0,False,False,True,False
+BEL,Belgium,2017,9.31,31.1,18.787187,28.0,False,False,True,False
+BEL,Belgium,2018,9.22,30.6,19.012664,,False,False,False,False
+BEL,Belgium,2019,9.15,30.0,19.246539,,False,False,False,False
+BEN,Benin,2010,8.777145903,35.1,7.6908566,10.9,False,False,False,False
+BEN,Benin,2011,9.048689267,34.7,7.9218164,10.44,False,False,True,False
+BEN,Benin,2012,9.274265604,34.4,8.1412867,9.98,False,False,True,False
+BEN,Benin,2013,9.515023022,33.9,8.3623908,9.52,False,False,True,False
+BEN,Benin,2014,8.225768773,33.5,8.595629,9.06,False,False,True,False
+BEN,Benin,2015,8.070824962,33.1,8.8467419,8.6,False,False,False,False
+BEN,Benin,2016,7.775951121,32.6,9.1181844,8.6,False,False,True,False
+BEN,Benin,2017,7.522107021,32.1,9.4090037,8.6,False,False,True,False
+BEN,Benin,2018,7.342117651,31.6,9.7187229,,False,False,False,False
+BEN,Benin,2019,6.98762734,31.2,10.04816,,False,False,False,False
+BFA,Burkina Faso,2010,17.53030899,32.8,3.2919168,20.9,False,False,False,False
+BFA,Burkina Faso,2011,18.38610256,32.5,3.4963064,20.24,False,False,True,False
+BFA,Burkina Faso,2012,15.80036416,32.2,3.7042722,19.58,False,False,True,False
+BFA,Burkina Faso,2013,15.97852455,32.0,3.9218128,18.92,False,False,True,False
+BFA,Burkina Faso,2014,16.64605545,31.7,4.1547708,18.26,False,False,True,False
+BFA,Burkina Faso,2015,16.22477556,31.5,4.4052966,17.6,False,False,False,False
+BFA,Burkina Faso,2016,15.86474685,31.2,4.6752714,17.6,False,False,True,False
+BFA,Burkina Faso,2017,14.78944676,31.0,4.9655914,17.6,False,False,True,False
+BFA,Burkina Faso,2018,15.68945941,30.7,5.2771293,,False,False,False,False
+BFA,Burkina Faso,2019,7.707196584,30.5,5.6108229,,False,False,False,False
+BGD,Bangladesh,2010,0.003341792,27.9,2.1226531,44.2,False,False,False,False
+BGD,Bangladesh,2011,0.003417415,27.8,2.3114517,43.14,False,False,True,False
+BGD,Bangladesh,2012,0.003491184,27.8,2.5124423,42.08,False,False,True,False
+BGD,Bangladesh,2013,0.003552883,27.8,2.7267229,41.02,False,False,True,False
+BGD,Bangladesh,2014,0.003640031,27.9,2.9545054,39.96,False,False,True,False
+BGD,Bangladesh,2015,0.003726285,28.0,3.1981368,38.9,False,False,False,False
+BGD,Bangladesh,2016,0.003777712,28.2,3.458482,38.9,False,False,True,False
+BGD,Bangladesh,2017,0.003888005,28.4,3.7338804,38.9,False,False,True,False
+BGD,Bangladesh,2018,0.004042624,28.6,4.0220205,,False,False,False,False
+BGD,Bangladesh,2019,0.004652531,28.8,4.3223269,,False,False,False,False
+BGR,Bulgaria,2010,10.21058551,45.2,17.053254,43.0,False,False,False,False
+BGR,Bulgaria,2011,10.49795304,45.2,17.353885,42.68,False,False,True,False
+BGR,Bulgaria,2012,10.5348806,45.2,17.646722,42.36,False,False,True,False
+BGR,Bulgaria,2013,10.5262136,45.2,17.934869,42.04,False,False,True,False
+BGR,Bulgaria,2014,9.912599017,45.2,18.220341,41.72,False,False,True,False
+BGR,Bulgaria,2015,10.15946764,45.2,18.508542,41.4,False,False,False,False
+BGR,Bulgaria,2016,10.82347541,45.2,18.798955,41.4,False,False,True,False
+BGR,Bulgaria,2017,10.7822288,45.2,19.087683,41.4,False,False,True,False
+BGR,Bulgaria,2018,10.94050392,45.2,19.373366,,False,False,False,False
+BGR,Bulgaria,2019,10.84371457,45.2,19.660026,,False,False,False,False
+BHR,Bahrain,2010,2.266123599,39.3,30.63162,18.3,False,False,False,False
+BHR,Bahrain,2011,2.010135263,39.2,31.156132,18.0,False,False,True,False
+BHR,Bahrain,2012,2.131820531,39.2,31.65735,17.7,False,False,True,False
+BHR,Bahrain,2013,2.005069775,39.1,32.150361,17.400000000000002,False,False,True,False
+BHR,Bahrain,2014,1.90622559,39.0,32.653922,17.1,False,False,True,False
+BHR,Bahrain,2015,1.771112217,38.9,33.139998,16.8,False,False,False,False
+BHR,Bahrain,2016,1.625369734,38.8,33.615011,16.8,False,False,True,False
+BHR,Bahrain,2017,1.543619803,38.8,34.059319,16.8,False,False,True,False
+BHR,Bahrain,2018,1.526652654,38.8,34.484518,,False,False,False,False
+BHR,Bahrain,2019,1.599590401,38.7,34.90743,,False,False,False,False
+BHS,"Bahamas, The",2010,7.174580996,,,,False,False,False,False
+BHS,"Bahamas, The",2011,7.343823431,,,,False,False,False,False
+BHS,"Bahamas, The",2012,7.643687955,,,,False,False,False,False
+BHS,"Bahamas, The",2013,7.64158305,,,,False,False,False,False
+BHS,"Bahamas, The",2014,7.796156788,,,,False,False,False,False
+BHS,"Bahamas, The",2015,7.827076171,,,,False,False,False,False
+BHS,"Bahamas, The",2016,7.879952212,,,,False,False,False,False
+BHS,"Bahamas, The",2017,8.048320201,,,,False,False,False,False
+BHS,"Bahamas, The",2018,8.172479697,,,,False,False,False,False
+BHS,"Bahamas, The",2019,8.0091468,,,,False,False,False,False
+BIH,Bosnia and Herzegovina,2010,4.480351849,44.7,16.707933,41.1,False,False,False,False
+BIH,Bosnia and Herzegovina,2011,4.666380223,44.6,17.013128,40.64,False,False,True,False
+BIH,Bosnia and Herzegovina,2012,4.787060297,44.6,17.32462,40.18,False,False,True,False
+BIH,Bosnia and Herzegovina,2013,4.602737251,44.5,17.644963,39.72,False,False,True,False
+BIH,Bosnia and Herzegovina,2014,4.583880143,44.4,17.976536,39.26,False,False,True,False
+BIH,Bosnia and Herzegovina,2015,4.781085548,44.4,18.324964,38.8,False,False,False,False
+BIH,Bosnia and Herzegovina,2016,5.143567932,44.3,18.690492,38.8,False,False,True,False
+BIH,Bosnia and Herzegovina,2017,5.352842945,44.3,19.06873,38.8,False,False,True,False
+BIH,Bosnia and Herzegovina,2018,5.338708469,44.2,19.457775,,False,False,False,False
+BIH,Bosnia and Herzegovina,2019,5.094305196,44.2,19.859956,,False,False,False,False
+BLR,Belarus,2010,13.97,50.3,20.733768,36.4,False,False,False,False
+BLR,Belarus,2011,14.08,50.2,20.858835,35.8,False,False,True,False
+BLR,Belarus,2012,13.19,50.1,20.961779,35.199999999999996,False,False,True,False
+BLR,Belarus,2013,12.25,49.9,21.041673,34.6,False,False,True,False
+BLR,Belarus,2014,11.0,49.8,21.103704,34.0,False,False,True,False
+BLR,Belarus,2015,9.53,49.7,21.156007,33.4,False,False,False,False
+BLR,Belarus,2016,9.48,49.6,21.199833,33.4,False,False,True,False
+BLR,Belarus,2017,9.51,49.5,21.233803,33.4,False,False,True,False
+BLR,Belarus,2018,9.81,49.3,21.255928,,False,False,False,False
+BLR,Belarus,2019,10.3,49.2,21.274516,,False,False,False,False
+BLZ,Belize,2010,6.877874227,35.8,33.734971,11.0,False,False,False,False
+BLZ,Belize,2011,6.740266497,36.1,34.459719,10.8,False,False,True,False
+BLZ,Belize,2012,6.679680986,36.3,35.172138,10.6,False,False,True,False
+BLZ,Belize,2013,6.573411442,36.6,35.872641,10.4,False,False,True,False
+BLZ,Belize,2014,6.708158194,36.8,36.571833,10.2,False,False,True,False
+BLZ,Belize,2015,6.697546091,37.0,37.278429,10.0,False,False,False,False
+BLZ,Belize,2016,6.459660405,37.2,37.989432,10.0,False,False,True,False
+BLZ,Belize,2017,6.050641029,37.5,38.701493,10.0,False,False,True,False
+BLZ,Belize,2018,5.901974875,37.7,39.410514,,False,False,False,False
+BLZ,Belize,2019,5.753602275,38.0,40.123248,,False,False,False,False
+BOL,Bolivia,2010,3.323509734,,,,False,False,False,False
+BOL,Bolivia,2011,3.252687094,,,,False,False,False,False
+BOL,Bolivia,2012,3.210073397,,,,False,False,False,False
+BOL,Bolivia,2013,3.172415931,,,,False,False,False,False
+BOL,Bolivia,2014,3.136017949,,,,False,False,False,False
+BOL,Bolivia,2015,3.110722792,,,,False,False,False,False
+BOL,Bolivia,2016,3.081665074,,,,False,False,False,False
+BOL,Bolivia,2017,3.028576962,,,,False,False,False,False
+BOL,Bolivia,2018,2.965870384,,,,False,False,False,False
+BOL,Bolivia,2019,2.901183363,,,,False,False,False,False
+BRA,Brazil,2010,8.79,46.1,17.634043,17.4,False,False,False,False
+BRA,Brazil,2011,9.71,46.1,18.356983,16.9,False,False,True,False
+BRA,Brazil,2012,8.94,45.9,19.121417,16.4,False,False,True,False
+BRA,Brazil,2013,7.93,45.8,19.921568,15.899999999999999,False,False,True,False
+BRA,Brazil,2014,7.9,45.6,20.753977,15.4,False,False,True,False
+BRA,Brazil,2015,7.92,45.5,21.612762,14.9,False,False,False,False
+BRA,Brazil,2016,8.37,45.4,22.494312,14.9,False,False,True,False
+BRA,Brazil,2017,7.94,45.2,23.391308,14.9,False,False,True,False
+BRA,Brazil,2018,9.07,45.1,24.303406,,False,False,False,False
+BRA,Brazil,2019,8.55,45.0,25.232354,,False,False,False,False
+BRB,Barbados,2010,8.561873323,41.1,29.439732,8.1,False,False,False,False
+BRB,Barbados,2011,8.722132473,41.3,30.148205,8.0,False,False,True,False
+BRB,Barbados,2012,8.903209782,41.4,30.851439,7.8999999999999995,False,False,True,False
+BRB,Barbados,2013,8.997716548,41.4,31.549388,7.8,False,False,True,False
+BRB,Barbados,2014,9.177366381,41.5,32.248685,7.699999999999999,False,False,True,False
+BRB,Barbados,2015,9.641785969,41.5,32.953998,7.6,False,False,False,False
+BRB,Barbados,2016,10.16787129,41.6,33.667246,7.6,False,False,True,False
+BRB,Barbados,2017,10.04034802,41.6,34.385505,7.6,False,False,True,False
+BRB,Barbados,2018,9.943437892,41.7,35.103178,,False,False,False,False
+BRB,Barbados,2019,10.00721022,41.8,35.824624,,False,False,False,False
+BRN,Brunei Darussalam,2010,0.238341749,44.3,21.680997,16.5,False,False,False,False
+BRN,Brunei Darussalam,2011,0.877333212,44.5,22.485614,16.48,False,False,True,False
+BRN,Brunei Darussalam,2012,0.915916325,44.8,23.280893,16.46,False,False,True,False
+BRN,Brunei Darussalam,2013,0.717655631,45.0,24.081427,16.439999999999998,False,False,True,False
+BRN,Brunei Darussalam,2014,0.706046906,45.2,24.894203,16.419999999999998,False,False,True,False
+BRN,Brunei Darussalam,2015,0.706046906,45.4,25.722808,16.4,False,False,False,False
+BRN,Brunei Darussalam,2016,0.706046906,45.7,26.565963,16.4,False,False,True,False
+BRN,Brunei Darussalam,2017,0.706046906,45.9,27.41763,16.4,False,False,True,False
+BRN,Brunei Darussalam,2018,0.706046906,46.1,28.27023,,False,False,False,False
+BRN,Brunei Darussalam,2019,0.706046906,46.4,29.125273,,False,False,False,False
+BTN,Bhutan,2010,4.478457746,41.0,6.3306205,24.9,False,False,False,False
+BTN,Bhutan,2011,4.478457746,41.3,6.7000315,24.299999999999997,False,False,True,False
+BTN,Bhutan,2012,4.478457746,41.6,7.0880532,23.7,False,False,True,False
+BTN,Bhutan,2013,4.478457746,41.9,7.4976094,23.099999999999998,False,False,True,False
+BTN,Bhutan,2014,4.478457746,42.2,7.9302266,22.5,False,False,True,False
+BTN,Bhutan,2015,4.478457746,42.4,8.3901793,21.9,False,False,False,False
+BTN,Bhutan,2016,4.478457746,42.7,8.8756934,21.9,False,False,True,False
+BTN,Bhutan,2017,4.478457746,42.9,9.3821876,21.9,False,False,True,False
+BTN,Bhutan,2018,4.478457746,43.1,9.9054158,,False,False,False,False
+BTN,Bhutan,2019,4.478457746,43.4,10.446334,,False,False,False,False
+BWA,Botswana,2010,4.611481578,44.8,14.100887,25.4,False,False,False,False
+BWA,Botswana,2011,5.24120501,44.8,14.417088,24.74,False,False,True,False
+BWA,Botswana,2012,4.019068543,44.8,14.725295,24.08,False,False,True,False
+BWA,Botswana,2013,4.122030111,44.8,15.032244,23.42,False,False,True,False
+BWA,Botswana,2014,5.065758437,44.7,15.347251,22.76,False,False,True,False
+BWA,Botswana,2015,5.1773489,44.6,15.671189,22.1,False,False,False,False
+BWA,Botswana,2016,5.466567902,44.5,16.004775,22.1,False,False,True,False
+BWA,Botswana,2017,5.426985564,44.4,16.349374,22.1,False,False,True,False
+BWA,Botswana,2018,6.115807989,44.2,16.703267,,False,False,False,False
+BWA,Botswana,2019,6.261885171,44.1,17.071067,,False,False,False,False
+CAF,Central African Republic,2010,1.693031363,42.1,5.3900171,,False,False,False,False
+CAF,Central African Republic,2011,1.629488427,42.1,5.636296,,False,False,False,False
+CAF,Central African Republic,2012,1.661043741,42.0,5.8877803,,False,False,False,False
+CAF,Central African Republic,2013,1.478089412,41.9,6.1486293,,False,False,False,False
+CAF,Central African Republic,2014,1.447204827,41.8,6.4257219,,False,False,False,False
+CAF,Central African Republic,2015,1.56878744,41.7,6.7192227,,False,False,False,False
+CAF,Central African Republic,2016,1.610522229,41.6,7.0275731,,False,False,False,False
+CAF,Central African Republic,2017,1.57358771,41.5,7.354515,,False,False,False,False
+CAF,Central African Republic,2018,1.551111436,41.4,7.6994449,,False,False,False,False
+CAF,Central African Republic,2019,1.495747509,41.3,8.0635421,,False,False,False,False
+CAN,Canada,2010,8.24,24.6,24.273723,19.3,False,False,False,False
+CAN,Canada,2011,8.31,24.3,24.479665,18.6,False,False,True,False
+CAN,Canada,2012,8.26,24.0,24.65485,17.900000000000002,False,False,True,False
+CAN,Canada,2013,8.07,23.7,24.814345,17.200000000000003,False,False,True,False
+CAN,Canada,2014,8.07,23.4,24.967441,16.5,False,False,True,False
+CAN,Canada,2015,8.18,23.1,25.11996,15.8,False,False,False,False
+CAN,Canada,2016,8.17,22.9,25.27532,15.8,False,False,True,False
+CAN,Canada,2017,8.18,22.6,25.42713,15.8,False,False,True,False
+CAN,Canada,2018,8.05,22.4,25.574449,,False,False,False,False
+CAN,Canada,2019,8.12,22.1,25.721297,,False,False,False,False
+CHE,Switzerland,2010,9.66,26.9,11.812952,26.9,False,False,False,False
+CHE,Switzerland,2011,9.56,26.3,11.817372,26.799999999999997,False,False,True,False
+CHE,Switzerland,2012,9.36,25.7,11.809546,26.7,False,False,True,False
+CHE,Switzerland,2013,9.36,25.1,11.801005,26.599999999999998,False,False,True,False
+CHE,Switzerland,2014,9.06,24.5,11.79871,26.5,False,False,True,False
+CHE,Switzerland,2015,9.05,24.0,11.809126,26.4,False,False,False,False
+CHE,Switzerland,2016,8.85,23.4,11.835159,26.4,False,False,True,False
+CHE,Switzerland,2017,8.72,22.9,11.868332,26.4,False,False,True,False
+CHE,Switzerland,2018,8.52,22.4,11.903986,,False,False,False,False
+CHE,Switzerland,2019,8.72,21.9,11.94336,,False,False,False,False
+CHL,Chile,2010,7.55,39.3,27.957776,37.5,False,False,False,False
+CHL,Chile,2011,7.02,39.1,28.76969,36.72,False,False,True,False
+CHL,Chile,2012,8.35,38.7,29.605725,35.94,False,False,True,False
+CHL,Chile,2013,7.23,38.3,30.465499,35.160000000000004,False,False,True,False
+CHL,Chile,2014,7.92,37.9,31.346932,34.38,False,False,True,False
+CHL,Chile,2015,7.89,37.5,32.248336,33.6,False,False,False,False
+CHL,Chile,2016,6.38,37.1,33.167136,33.6,False,False,True,False
+CHL,Chile,2017,5.71,36.8,34.098622,33.6,False,False,True,False
+CHL,Chile,2018,6.32,36.4,35.037577,,False,False,False,False
+CHL,Chile,2019,7.14,36.1,35.988921,,False,False,False,False
+CHN,China,2010,4.99,29.6,3.9697785,25.2,False,False,False,False
+CHN,China,2011,5.57,29.4,4.2217463,25.04,False,False,True,False
+CHN,China,2012,6.02,29.2,4.4872195,24.88,False,False,True,False
+CHN,China,2013,6.3,28.9,4.7720026,24.72,False,False,True,False
+CHN,China,2014,6.35,28.6,5.0767515,24.56,False,False,True,False
+CHN,China,2015,6.44,28.3,5.4026946,24.4,False,False,False,False
+CHN,China,2016,6.53,28.0,5.7486825,24.4,False,False,True,False
+CHN,China,2017,5.87,27.8,6.1112192,24.4,False,False,True,False
+CHN,China,2018,4.57,27.5,6.4929411,,False,False,False,False
+CHN,China,2019,4.18,27.3,6.8968594,,False,False,False,False
+CIV,Côte d'Ivoire,2010,2.035369368,39.0,7.6876983,13.7,False,False,False,False
+CIV,Côte d'Ivoire,2011,2.100070147,38.8,7.9324253,13.24,False,False,True,False
+CIV,Côte d'Ivoire,2012,2.170578228,38.6,8.1740722,12.78,False,False,True,False
+CIV,Côte d'Ivoire,2013,2.281904468,38.4,8.4225215,12.32,False,False,True,False
+CIV,Côte d'Ivoire,2014,2.510681706,38.2,8.6880974,11.86,False,False,True,False
+CIV,Côte d'Ivoire,2015,2.753552008,38.0,8.9751862,11.4,False,False,False,False
+CIV,Côte d'Ivoire,2016,2.73222964,37.8,9.286879,11.4,False,False,True,False
+CIV,Côte d'Ivoire,2017,2.827137569,37.6,9.6222498,11.4,False,False,True,False
+CIV,Côte d'Ivoire,2018,2.982984826,37.4,9.9803537,,False,False,False,False
+CIV,Côte d'Ivoire,2019,2.999907692,37.3,10.361018,,False,False,False,False
+CMR,Cameroon,2010,6.569441379,36.2,11.2049,10.4,False,False,False,False
+CMR,Cameroon,2011,6.56639304,36.3,11.490428,10.02,False,False,True,False
+CMR,Cameroon,2012,7.119598525,36.3,11.753074,9.64,False,False,True,False
+CMR,Cameroon,2013,7.287032417,36.4,12.006788,9.26,False,False,True,False
+CMR,Cameroon,2014,7.31401622,36.5,12.265695,8.88,False,False,True,False
+CMR,Cameroon,2015,6.747784825,36.5,12.534451,8.5,False,False,False,False
+CMR,Cameroon,2016,6.490187291,36.6,12.818879,8.5,False,False,True,False
+CMR,Cameroon,2017,6.674111618,36.6,13.119014,8.5,False,False,True,False
+CMR,Cameroon,2018,6.697630718,36.7,13.435923,,False,False,False,False
+CMR,Cameroon,2019,8.210828577,36.8,13.770814,,False,False,False,False
+COD,"Congo, Dem. Rep.",2010,1.064371923,,,,False,False,False,False
+COD,"Congo, Dem. Rep.",2011,1.14441062,,,,False,False,False,False
+COD,"Congo, Dem. Rep.",2012,1.182318956,,,,False,False,False,False
+COD,"Congo, Dem. Rep.",2013,1.281081891,,,,False,False,False,False
+COD,"Congo, Dem. Rep.",2014,1.320661139,,,,False,False,False,False
+COD,"Congo, Dem. Rep.",2015,1.142791773,,,,False,False,False,False
+COD,"Congo, Dem. Rep.",2016,1.120777909,,,,False,False,False,False
+COD,"Congo, Dem. Rep.",2017,1.085433773,,,,False,False,False,False
+COD,"Congo, Dem. Rep.",2018,1.02839514,,,,False,False,False,False
+COD,"Congo, Dem. Rep.",2019,1.044857697,,,,False,False,False,False
+COG,"Congo, Rep.",2010,3.754883847,,,,False,False,False,False
+COG,"Congo, Rep.",2011,3.961950948,,,,False,False,False,False
+COG,"Congo, Rep.",2012,3.942816475,,,,False,False,False,False
+COG,"Congo, Rep.",2013,4.056904447,,,,False,False,False,False
+COG,"Congo, Rep.",2014,4.173638679,,,,False,False,False,False
+COG,"Congo, Rep.",2015,4.110814649,,,,False,False,False,False
+COG,"Congo, Rep.",2016,5.319445391,,,,False,False,False,False
+COG,"Congo, Rep.",2017,5.461249423,,,,False,False,False,False
+COG,"Congo, Rep.",2018,5.277478356,,,,False,False,False,False
+COG,"Congo, Rep.",2019,5.246648087,,,,False,False,False,False
+COL,Colombia,2010,3.365882581,32.0,16.993499,11.5,False,False,False,False
+COL,Colombia,2011,3.548025547,32.0,17.572729,11.18,False,False,True,False
+COL,Colombia,2012,3.559320357,31.9,18.152933,10.86,False,False,True,False
+COL,Colombia,2013,3.487494934,31.8,18.728486,10.540000000000001,False,False,True,False
+COL,Colombia,2014,3.414545758,31.6,19.296189,10.22,False,False,True,False
+COL,Colombia,2015,3.438529695,31.5,19.853628,9.9,False,False,False,False
+COL,Colombia,2016,3.56,31.3,20.396207,9.9,False,False,True,False
+COL,Colombia,2017,3.46,31.2,20.926742,9.9,False,False,True,False
+COL,Colombia,2018,3.5,31.1,21.450117,,False,False,False,False
+COL,Colombia,2019,3.48,31.0,21.974038,,False,False,False,False
+COM,Comoros,2010,0.157886235,36.0,9.8140709,28.3,False,False,False,False
+COM,Comoros,2011,0.141084952,35.8,10.256834,27.14,False,False,True,False
+COM,Comoros,2012,0.142708278,35.6,10.708262,25.98,False,False,True,False
+COM,Comoros,2013,0.184902955,35.3,11.173488,24.82,False,False,True,False
+COM,Comoros,2014,0.139690416,34.9,11.658647,23.66,False,False,True,False
+COM,Comoros,2015,0.131247113,34.6,12.165481,22.5,False,False,False,False
+COM,Comoros,2016,0.166509803,34.2,12.694941,22.5,False,False,True,False
+COM,Comoros,2017,0.191548627,33.9,13.239253,22.5,False,False,True,False
+COM,Comoros,2018,0.180713948,33.5,13.796009,,False,False,False,False
+COM,Comoros,2019,0.236970711,33.2,14.373326,,False,False,False,False
+CPV,Cabo Verde,2010,3.483181342,46.8,10.644072,15.1,False,False,False,False
+CPV,Cabo Verde,2011,3.577662023,46.6,10.988255,14.719999999999999,False,False,True,False
+CPV,Cabo Verde,2012,3.031617399,46.3,11.324172,14.34,False,False,True,False
+CPV,Cabo Verde,2013,3.013267725,46.0,11.666516,13.959999999999999,False,False,True,False
+CPV,Cabo Verde,2014,3.300261072,45.7,12.028439,13.58,False,False,True,False
+CPV,Cabo Verde,2015,3.760132699,45.4,12.41436,13.2,False,False,False,False
+CPV,Cabo Verde,2016,4.447587482,45.1,12.825206,13.2,False,False,True,False
+CPV,Cabo Verde,2017,4.209661918,44.7,13.258825,13.2,False,False,True,False
+CPV,Cabo Verde,2018,4.119145279,44.4,13.714786,,False,False,False,False
+CPV,Cabo Verde,2019,4.187375775,44.1,14.193656,,False,False,False,False
+CRI,Costa Rica,2010,3.281270958,38.9,23.554841,12.7,False,False,False,False
+CRI,Costa Rica,2011,3.21,38.9,24.207658,12.34,False,False,True,False
+CRI,Costa Rica,2012,3.17,38.9,24.862187,11.98,False,False,True,False
+CRI,Costa Rica,2013,3.02,38.7,25.514871,11.620000000000001,False,False,True,False
+CRI,Costa Rica,2014,3.12,38.6,26.166186,11.26,False,False,True,False
+CRI,Costa Rica,2015,3.18,38.4,26.813278,10.9,False,False,False,False
+CRI,Costa Rica,2016,3.36,38.2,27.456599,10.9,False,False,True,False
+CRI,Costa Rica,2017,3.21,38.1,28.097221,10.9,False,False,True,False
+CRI,Costa Rica,2018,3.29,37.9,28.736043,,False,False,False,False
+CRI,Costa Rica,2019,3.07,37.8,29.380527,,False,False,False,False
+CUB,Cuba,2010,4.228660377,38.8,15.332413,27.1,False,False,False,False
+CUB,Cuba,2011,4.273973309,39.0,15.823519,26.18,False,False,True,False
+CUB,Cuba,2012,4.260919041,39.1,16.31844,25.26,False,False,True,False
+CUB,Cuba,2013,4.348391386,39.3,16.816914,24.34,False,False,True,False
+CUB,Cuba,2014,4.530265061,39.4,17.324024,23.42,False,False,True,False
+CUB,Cuba,2015,4.649681606,39.5,17.842628,22.5,False,False,False,False
+CUB,Cuba,2016,4.578540687,39.6,18.37232,22.5,False,False,True,False
+CUB,Cuba,2017,4.693460962,39.7,18.911706,22.5,False,False,True,False
+CUB,Cuba,2018,4.756334623,39.8,19.456716,,False,False,False,False
+CUB,Cuba,2019,4.778663289,39.9,20.011504,,False,False,False,False
+CYP,Cyprus,2010,5.987687654,33.9,21.273379,38.6,False,False,False,False
+CYP,Cyprus,2011,5.885040833,33.6,21.427646,38.300000000000004,False,False,True,False
+CYP,Cyprus,2012,5.818311564,33.2,21.55879,38.0,False,False,True,False
+CYP,Cyprus,2013,5.246394759,32.8,21.674781,37.7,False,False,True,False
+CYP,Cyprus,2014,5.279185262,32.4,21.786958,37.4,False,False,True,False
+CYP,Cyprus,2015,5.403174652,32.1,21.903536,37.1,False,False,False,False
+CYP,Cyprus,2016,5.504951557,31.7,22.027159,37.1,False,False,True,False
+CYP,Cyprus,2017,5.737404714,31.4,22.156937,37.1,False,False,True,False
+CYP,Cyprus,2018,6.011267748,31.1,22.290652,,False,False,False,False
+CYP,Cyprus,2019,5.669242203,30.8,22.431517,,False,False,False,False
+CZE,Czechia,2010,12.74,42.0,21.186854,32.5,False,False,False,False
+CZE,Czechia,2011,12.63,42.0,21.504064,32.28,False,False,True,False
+CZE,Czechia,2012,12.9,41.9,21.837513,32.06,False,False,True,False
+CZE,Czechia,2013,12.62,41.9,22.186781,31.84,False,False,True,False
+CZE,Czechia,2014,12.85,41.8,22.554526,31.619999999999997,False,False,True,False
+CZE,Czechia,2015,12.86,41.8,22.94489,31.4,False,False,False,False
+CZE,Czechia,2016,13.04,41.7,23.353016,31.4,False,False,True,False
+CZE,Czechia,2017,12.87,41.7,23.771556,31.4,False,False,True,False
+CZE,Czechia,2018,13.11,41.6,24.19261,,False,False,False,False
+CZE,Czechia,2019,13.22,41.6,24.618946,,False,False,False,False
+DEU,Germany,2010,11.24,34.6,20.443046,28.5,False,False,False,False
+DEU,Germany,2011,11.21,34.0,20.470724,27.82,False,False,True,False
+DEU,Germany,2012,11.38,33.4,20.467617,27.14,False,False,True,False
+DEU,Germany,2013,11.25,32.8,20.448628,26.46,False,False,True,False
+DEU,Germany,2014,11.26,32.2,20.42525,25.78,False,False,True,False
+DEU,Germany,2015,11.16,31.7,20.405598,25.1,False,False,False,False
+DEU,Germany,2016,11.22,31.2,20.395663,25.1,False,False,True,False
+DEU,Germany,2017,11.07,30.7,20.388296,25.1,False,False,True,False
+DEU,Germany,2018,11.16,30.2,20.380101,,False,False,False,False
+DEU,Germany,2019,10.76,29.7,20.373897,,False,False,False,False
+DJI,Djibouti,2010,0.398350805,37.1,6.5167904,,False,False,False,False
+DJI,Djibouti,2011,0.394837548,36.9,6.8207234,,False,False,False,False
+DJI,Djibouti,2012,0.387363392,36.6,7.1355022,,False,False,False,False
+DJI,Djibouti,2013,0.399400145,36.3,7.4633986,,False,False,False,False
+DJI,Djibouti,2014,0.353752096,36.0,7.8085802,,False,False,False,False
+DJI,Djibouti,2015,0.276032448,35.6,8.1730947,,False,False,False,False
+DJI,Djibouti,2016,0.286996817,35.3,8.5586466,,False,False,False,False
+DJI,Djibouti,2017,0.256297725,34.9,8.9660421,,False,False,False,False
+DJI,Djibouti,2018,0.220908375,34.6,9.3951009,,False,False,False,False
+DJI,Djibouti,2019,0.219525821,34.2,9.8454639,,False,False,False,False
+DMA,Dominica,2010,7.836603362,47.9,23.298711,,False,False,False,False
+DMA,Dominica,2011,7.641043301,48.0,23.90811,,False,False,False,False
+DMA,Dominica,2012,7.700328667,48.0,24.540721,,False,False,False,False
+DMA,Dominica,2013,7.995096836,48.0,25.148785,,False,False,False,False
+DMA,Dominica,2014,7.873518848,47.9,25.826904,,False,False,False,False
+DMA,Dominica,2015,7.872691586,47.9,26.516941,,False,False,False,False
+DMA,Dominica,2016,7.457055508,47.8,27.156505,,False,False,False,False
+DMA,Dominica,2017,7.755820254,47.8,27.828917,,False,False,False,False
+DMA,Dominica,2018,7.394745568,47.7,28.5119,,False,False,False,False
+DMA,Dominica,2019,7.754966986,47.7,29.212144,,False,False,False,False
+DNK,Denmark,2010,10.23,40.9,12.456207,25.7,False,False,False,False
+DNK,Denmark,2011,10.36,40.5,12.507869,24.8,False,False,True,False
+DNK,Denmark,2012,9.16,40.0,12.545781,23.9,False,False,True,False
+DNK,Denmark,2013,9.39,39.5,12.582669,23.0,False,False,True,False
+DNK,Denmark,2014,9.51,38.9,12.62534,22.099999999999998,False,False,True,False
+DNK,Denmark,2015,9.38,38.3,12.678646,21.2,False,False,False,False
+DNK,Denmark,2016,9.46,37.7,12.746185,21.2,False,False,True,False
+DNK,Denmark,2017,9.23,37.1,12.82077,21.2,False,False,True,False
+DNK,Denmark,2018,9.3,36.5,12.899646,,False,False,False,False
+DNK,Denmark,2019,9.12,35.9,12.982713,,False,False,False,False
+DOM,Dominican Republic,2010,4.64,48.4,20.976385,14.3,False,False,False,False
+DOM,Dominican Republic,2011,4.55,48.6,21.637838,13.940000000000001,False,False,True,False
+DOM,Dominican Republic,2012,4.4,48.7,22.295199,13.58,False,False,True,False
+DOM,Dominican Republic,2013,4.01,48.8,22.952597,13.22,False,False,True,False
+DOM,Dominican Republic,2014,4.04,48.9,23.619692,12.86,False,False,True,False
+DOM,Dominican Republic,2015,3.98,48.9,24.300757,12.5,False,False,False,False
+DOM,Dominican Republic,2016,3.78,49.0,24.994138,12.5,False,False,True,False
+DOM,Dominican Republic,2017,3.74,49.0,25.695652,12.5,False,False,True,False
+DOM,Dominican Republic,2018,3.94,49.1,26.401326,,False,False,False,False
+DOM,Dominican Republic,2019,4.03,49.1,27.115127,,False,False,False,False
+DZA,Algeria,2010,0.404503661,37.4,17.816971,21.7,False,False,False,False
+DZA,Algeria,2011,0.433350508,37.3,18.280864,21.62,False,False,True,False
+DZA,Algeria,2012,0.45719438,37.2,18.755415,21.54,False,False,True,False
+DZA,Algeria,2013,0.489062902,37.1,19.240724,21.46,False,False,True,False
+DZA,Algeria,2014,0.518811136,37.0,19.737566,21.38,False,False,True,False
+DZA,Algeria,2015,0.472485114,36.8,20.248681,21.3,False,False,False,False
+DZA,Algeria,2016,0.477636673,36.6,20.775081,21.3,False,False,True,False
+DZA,Algeria,2017,0.482602634,36.5,21.288969,21.3,False,False,True,False
+DZA,Algeria,2018,0.514897126,36.3,21.786548,,False,False,False,False
+DZA,Algeria,2019,0.491808528,36.2,22.279868,,False,False,False,False
+ECU,Ecuador,2010,3.781197591,25.5,18.83474,12.2,False,False,False,False
+ECU,Ecuador,2011,3.983222925,25.7,19.46319,12.02,False,False,True,False
+ECU,Ecuador,2012,3.894604496,25.8,20.107205,11.84,False,False,True,False
+ECU,Ecuador,2013,3.755867362,26.0,20.761065,11.66,False,False,True,False
+ECU,Ecuador,2014,3.80857206,26.1,21.4267,11.48,False,False,True,False
+ECU,Ecuador,2015,3.68822636,26.3,22.107267,11.3,False,False,False,False
+ECU,Ecuador,2016,3.149611289,26.5,22.804977,11.3,False,False,True,False
+ECU,Ecuador,2017,2.89466932,26.7,23.518725,11.3,False,False,True,False
+ECU,Ecuador,2018,3.008179191,26.9,24.247363,,False,False,False,False
+ECU,Ecuador,2019,2.995732573,27.2,24.994563,,False,False,False,False
+EGY,"Egypt, Arab Rep.",2010,0.146202917,,,,False,False,False,False
+EGY,"Egypt, Arab Rep.",2011,0.135749074,,,,False,False,False,False
+EGY,"Egypt, Arab Rep.",2012,0.142188678,,,,False,False,False,False
+EGY,"Egypt, Arab Rep.",2013,0.137696089,,,,False,False,False,False
+EGY,"Egypt, Arab Rep.",2014,0.139959548,,,,False,False,False,False
+EGY,"Egypt, Arab Rep.",2015,0.134338042,,,,False,False,False,False
+EGY,"Egypt, Arab Rep.",2016,0.109113109,,,,False,False,False,False
+EGY,"Egypt, Arab Rep.",2017,0.103459011,,,,False,False,False,False
+EGY,"Egypt, Arab Rep.",2018,0.108796675,,,,False,False,False,False
+EGY,"Egypt, Arab Rep.",2019,0.104441231,,,,False,False,False,False
+ERI,Eritrea,2010,0.967952023,25.0,2.3766637,,False,False,False,False
+ERI,Eritrea,2011,1.051431561,24.9,2.5147974,,False,False,False,False
+ERI,Eritrea,2012,1.042214406,24.7,2.6611121,,False,False,False,False
+ERI,Eritrea,2013,1.03385848,24.6,2.8166374,,False,False,False,False
+ERI,Eritrea,2014,1.029876301,24.4,2.9839834,,False,False,False,False
+ERI,Eritrea,2015,1.028149615,24.3,3.1640753,,False,False,False,False
+ERI,Eritrea,2016,0.972476696,24.1,3.3566196,,False,False,False,False
+ERI,Eritrea,2017,0.966689705,23.9,3.5628684,,False,False,False,False
+ERI,Eritrea,2018,0.957012837,23.8,3.7831381,,False,False,False,False
+ERI,Eritrea,2019,0.951063282,23.7,4.0188789,,False,False,False,False
+ESP,Spain,2010,8.94,32.8,19.403346,31.7,False,False,False,False
+ESP,Spain,2011,8.75,32.1,19.167995,31.419999999999998,False,False,True,False
+ESP,Spain,2012,8.6,31.4,18.883239,31.14,False,False,True,False
+ESP,Spain,2013,8.56,30.7,18.565142,30.86,False,False,True,False
+ESP,Spain,2014,7.85,30.1,18.229154,30.580000000000002,False,False,True,False
+ESP,Spain,2015,10.43,29.4,17.88632,30.3,False,False,False,False
+ESP,Spain,2016,10.89,28.8,17.54486,30.3,False,False,True,False
+ESP,Spain,2017,10.9,28.2,17.205395,30.3,False,False,True,False
+ESP,Spain,2018,10.39,27.7,16.870522,,False,False,False,False
+ESP,Spain,2019,10.7,27.2,16.546416,,False,False,False,False
+EST,Estonia,2010,14.97,42.0,20.529473,37.3,False,False,False,False
+EST,Estonia,2011,16.27,41.8,20.72363,36.5,False,False,True,False
+EST,Estonia,2012,16.96,41.6,20.890988,35.699999999999996,False,False,True,False
+EST,Estonia,2013,17.75,41.3,21.03795,34.9,False,False,True,False
+EST,Estonia,2014,17.29,41.1,21.171376,34.099999999999994,False,False,True,False
+EST,Estonia,2015,16.72,40.9,21.301855,33.3,False,False,False,False
+EST,Estonia,2016,15.61,40.7,21.429379,33.3,False,False,True,False
+EST,Estonia,2017,13.08,40.5,21.55232,33.3,False,False,True,False
+EST,Estonia,2018,10.81,40.3,21.670602,,False,False,False,False
+EST,Estonia,2019,11.65,40.2,21.786639,,False,False,False,False
+ETH,Ethiopia,2010,0.808375878,28.3,1.2997326,5.8,False,False,False,False
+ETH,Ethiopia,2011,0.888409114,28.3,1.3832971,5.74,False,False,True,False
+ETH,Ethiopia,2012,0.99797737,28.3,1.4722644,5.68,False,False,True,False
+ETH,Ethiopia,2013,1.049455267,28.2,1.5674846,5.62,False,False,True,False
+ETH,Ethiopia,2014,1.157495039,28.0,1.6699459,5.56,False,False,True,False
+ETH,Ethiopia,2015,1.329838161,27.9,1.7799549,5.5,False,False,False,False
+ETH,Ethiopia,2016,1.451655633,27.8,1.8981637,5.5,False,False,True,False
+ETH,Ethiopia,2017,1.546287903,27.7,2.0257449,5.5,False,False,True,False
+ETH,Ethiopia,2018,1.737633012,27.5,2.163058,,False,False,False,False
+ETH,Ethiopia,2019,1.977769128,27.4,2.3102844,,False,False,False,False
+FIN,Finland,2010,9.72,39.0,18.98731,30.2,False,False,False,False
+FIN,Finland,2011,9.81,38.6,19.163156,29.46,False,False,True,False
+FIN,Finland,2012,9.28,38.3,19.329432,28.72,False,False,True,False
+FIN,Finland,2013,9.07,37.9,19.498864,27.98,False,False,True,False
+FIN,Finland,2014,8.75,37.6,19.67781,27.24,False,False,True,False
+FIN,Finland,2015,8.51,37.2,19.871606,26.5,False,False,False,False
+FIN,Finland,2016,8.43,36.9,20.08328,26.5,False,False,True,False
+FIN,Finland,2017,8.37,36.6,20.302574,26.5,False,False,True,False
+FIN,Finland,2018,8.37,36.2,20.524879,,False,False,False,False
+FIN,Finland,2019,8.16,35.9,20.752914,,False,False,False,False
+FJI,Fiji,2010,2.157618885,35.3,26.957792,30.4,False,False,False,False
+FJI,Fiji,2011,2.354686619,35.7,27.476418,30.16,False,False,True,False
+FJI,Fiji,2012,2.213744609,36.1,27.999824,29.919999999999998,False,False,True,False
+FJI,Fiji,2013,2.293546966,36.5,28.530374,29.68,False,False,True,False
+FJI,Fiji,2014,2.30558733,36.9,29.072642,29.439999999999998,False,False,True,False
+FJI,Fiji,2015,2.908683987,37.2,29.629853,29.2,False,False,False,False
+FJI,Fiji,2016,2.632492235,37.6,30.200362,29.2,False,False,True,False
+FJI,Fiji,2017,3.751713174,37.9,30.779672,29.2,False,False,True,False
+FJI,Fiji,2018,3.770688696,38.3,31.365868,,False,False,False,False
+FJI,Fiji,2019,3.19363096,38.6,31.96393,,False,False,False,False
+FRA,France,2010,12.33,31.8,12.085788,34.4,False,False,False,False
+FRA,France,2011,12.37,31.4,11.922055,34.42,False,False,True,False
+FRA,France,2012,12.24,31.1,11.733142,34.44,False,False,True,False
+FRA,France,2013,11.64,30.8,11.528161,34.46,False,False,True,False
+FRA,France,2014,11.97,30.5,11.317118,34.48,False,False,True,False
+FRA,France,2015,11.87,30.2,11.104283,34.5,False,False,False,False
+FRA,France,2016,11.74,29.9,10.891096,34.5,False,False,True,False
+FRA,France,2017,11.69,29.6,10.679507,34.5,False,False,True,False
+FRA,France,2018,11.56,29.4,10.469229,,False,False,False,False
+FRA,France,2019,11.44,29.1,10.264336,,False,False,False,False
+FSM,"Micronesia, Fed. Sts.",2010,1.75,,,,False,False,False,False
+FSM,"Micronesia, Fed. Sts.",2011,1.87,,,,False,False,False,False
+FSM,"Micronesia, Fed. Sts.",2012,2.89,,,,False,False,False,False
+FSM,"Micronesia, Fed. Sts.",2013,1.6,,,,False,False,False,False
+FSM,"Micronesia, Fed. Sts.",2014,1.51,,,,False,False,False,False
+FSM,"Micronesia, Fed. Sts.",2015,1.58,,,,False,False,False,False
+FSM,"Micronesia, Fed. Sts.",2016,1.58,,,,False,False,False,False
+FSM,"Micronesia, Fed. Sts.",2017,1.58,,,,False,False,False,False
+FSM,"Micronesia, Fed. Sts.",2018,1.58,,,,False,False,False,False
+FSM,"Micronesia, Fed. Sts.",2019,1.58,,,,False,False,False,False
+GAB,Gabon,2010,7.63891261,38.1,14.660004,,False,False,False,False
+GAB,Gabon,2011,7.644034869,38.1,15.105499,,False,False,False,False
+GAB,Gabon,2012,7.128977836,38.0,15.545852,,False,False,False,False
+GAB,Gabon,2013,7.56109359,37.9,15.990521,,False,False,False,False
+GAB,Gabon,2014,8.020609043,37.8,16.452368,,False,False,False,False
+GAB,Gabon,2015,7.922248567,37.7,16.937871,,False,False,False,False
+GAB,Gabon,2016,7.205826857,37.6,17.450835,,False,False,False,False
+GAB,Gabon,2017,6.616114615,37.5,17.990433,,False,False,False,False
+GAB,Gabon,2018,6.200991547,37.4,18.551628,,False,False,False,False
+GAB,Gabon,2019,5.932803105,37.4,19.132534,,False,False,False,False
+GBR,United Kingdom,2010,10.12,,,,False,False,False,False
+GBR,United Kingdom,2011,9.89,,,,False,False,False,False
+GBR,United Kingdom,2012,9.62,,,,False,False,False,False
+GBR,United Kingdom,2013,9.49,,,,False,False,False,False
+GBR,United Kingdom,2014,9.5,,,,False,False,False,False
+GBR,United Kingdom,2015,9.64,,,,False,False,False,False
+GBR,United Kingdom,2016,9.75,,,,False,False,False,False
+GBR,United Kingdom,2017,9.93,,,,False,False,False,False
+GBR,United Kingdom,2018,10.04,,,,False,False,False,False
+GBR,United Kingdom,2019,9.94,,,,False,False,False,False
+GEO,Georgia,2010,7.232726804,44.3,25.685254,32.4,False,False,False,False
+GEO,Georgia,2011,7.449935983,44.5,26.440984,32.32,False,False,True,False
+GEO,Georgia,2012,7.48673372,44.6,27.198139,32.24,False,False,True,False
+GEO,Georgia,2013,7.449918339,44.6,27.955663,32.16,False,False,True,False
+GEO,Georgia,2014,7.147798183,44.7,28.718868,32.08,False,False,True,False
+GEO,Georgia,2015,7.585872374,44.7,29.487804,32.0,False,False,False,False
+GEO,Georgia,2016,7.427025738,44.6,30.253759,32.0,False,False,True,False
+GEO,Georgia,2017,6.528421056,44.6,31.002006,32.0,False,False,True,False
+GEO,Georgia,2018,7.838327342,44.6,31.733298,,False,False,False,False
+GEO,Georgia,2019,9.207498571,44.5,32.458889,,False,False,False,False
+GHA,Ghana,2010,2.317714171,37.9,9.7868018,5.1,False,False,False,False
+GHA,Ghana,2011,2.175636704,37.5,10.021187,4.9399999999999995,False,False,True,False
+GHA,Ghana,2012,1.954128074,37.1,10.238216,4.779999999999999,False,False,True,False
+GHA,Ghana,2013,1.982613266,36.6,10.450875,4.62,False,False,True,False
+GHA,Ghana,2014,2.239290695,36.1,10.671166,4.46,False,False,True,False
+GHA,Ghana,2015,2.035658144,35.7,10.903609,4.3,False,False,False,False
+GHA,Ghana,2016,1.860773592,35.2,11.150894,4.3,False,False,True,False
+GHA,Ghana,2017,1.799715642,34.7,11.412118,4.3,False,False,True,False
+GHA,Ghana,2018,1.873849396,34.3,11.686822,,False,False,False,False
+GHA,Ghana,2019,1.978270794,33.9,11.976149,,False,False,False,False
+GIN,Guinea,2010,0.189301032,42.9,5.3845137,,False,False,False,False
+GIN,Guinea,2011,0.227172702,42.8,5.6409046,,False,False,False,False
+GIN,Guinea,2012,0.234569236,42.6,5.8982551,,False,False,False,False
+GIN,Guinea,2013,0.247379712,42.3,6.1656445,,False,False,False,False
+GIN,Guinea,2014,0.307588662,42.1,6.4509332,,False,False,False,False
+GIN,Guinea,2015,0.363220239,41.9,6.7562588,,False,False,False,False
+GIN,Guinea,2016,0.340194685,41.6,7.0846222,,False,False,False,False
+GIN,Guinea,2017,0.306833161,41.4,7.4361354,,False,False,False,False
+GIN,Guinea,2018,0.308872665,41.1,7.809855,,False,False,False,False
+GIN,Guinea,2019,0.354950995,40.9,8.2052812,,False,False,False,False
+GMB,"Gambia, The",2010,2.54019567,,,,False,False,False,False
+GMB,"Gambia, The",2011,2.330455915,,,,False,False,False,False
+GMB,"Gambia, The",2012,2.419138104,,,,False,False,False,False
+GMB,"Gambia, The",2013,1.882405657,,,,False,False,False,False
+GMB,"Gambia, The",2014,1.671697242,,,,False,False,False,False
+GMB,"Gambia, The",2015,1.346246515,,,,False,False,False,False
+GMB,"Gambia, The",2016,1.396729806,,,,False,False,False,False
+GMB,"Gambia, The",2017,1.059541373,,,,False,False,False,False
+GMB,"Gambia, The",2018,0.815347843,,,,False,False,False,False
+GMB,"Gambia, The",2019,0.810004935,,,,False,False,False,False
+GNB,Guinea-Bissau,2010,2.963371842,39.7,7.3479183,13.4,False,False,False,False
+GNB,Guinea-Bissau,2011,2.993832573,39.6,7.6184615,12.9,False,False,True,False
+GNB,Guinea-Bissau,2012,3.036324878,39.4,7.8826956,12.4,False,False,True,False
+GNB,Guinea-Bissau,2013,3.084481175,39.2,8.1519507,11.9,False,False,True,False
+GNB,Guinea-Bissau,2014,2.95372203,39.0,8.4370054,11.4,False,False,True,False
+GNB,Guinea-Bissau,2015,3.046537678,38.8,8.7407485,10.9,False,False,False,False
+GNB,Guinea-Bissau,2016,3.093069823,38.6,9.0665072,10.9,False,False,True,False
+GNB,Guinea-Bissau,2017,3.319155762,38.4,9.4127633,10.9,False,False,True,False
+GNB,Guinea-Bissau,2018,3.248005349,38.2,9.779714,,False,False,False,False
+GNB,Guinea-Bissau,2019,3.428584611,38.0,10.16773,,False,False,False,False
+GNQ,Equatorial Guinea,2010,7.703046757,39.0,13.314338,,False,False,False,False
+GNQ,Equatorial Guinea,2011,8.042005759,39.0,13.620134,,False,False,False,False
+GNQ,Equatorial Guinea,2012,8.428759322,38.9,13.906439,,False,False,False,False
+GNQ,Equatorial Guinea,2013,7.74223027,38.8,14.195099,,False,False,False,False
+GNQ,Equatorial Guinea,2014,7.510563097,38.7,14.496323,,False,False,False,False
+GNQ,Equatorial Guinea,2015,7.096139155,38.5,14.816929,,False,False,False,False
+GNQ,Equatorial Guinea,2016,6.424601778,38.4,15.157253,,False,False,False,False
+GNQ,Equatorial Guinea,2017,5.288490865,38.3,15.516871,,False,False,False,False
+GNQ,Equatorial Guinea,2018,5.337240781,38.2,15.894319,,False,False,False,False
+GNQ,Equatorial Guinea,2019,5.809019182,38.1,16.28966,,False,False,False,False
+GRC,Greece,2010,7.831736692,34.2,23.909095,43.2,False,False,False,False
+GRC,Greece,2011,7.55317575,33.8,24.270684,42.24,False,False,True,False
+GRC,Greece,2012,7.489950308,33.5,24.608271,41.28,False,False,True,False
+GRC,Greece,2013,7.620344564,33.1,24.931236,40.32,False,False,True,False
+GRC,Greece,2014,7.131560952,32.7,25.248349,39.36,False,False,True,False
+GRC,Greece,2015,6.733373072,32.4,25.56676,38.4,False,False,False,False
+GRC,Greece,2016,6.754753679,32.1,25.889155,38.4,False,False,True,False
+GRC,Greece,2017,6.768546236,31.8,26.215902,38.4,False,False,True,False
+GRC,Greece,2018,6.602730243,31.6,26.544508,,False,False,False,False
+GRC,Greece,2019,6.603509889,31.3,26.880234,,False,False,False,False
+GRD,Grenada,2010,7.221620677,45.8,22.720943,,False,False,False,False
+GRD,Grenada,2011,7.198457917,46.0,23.311666,,False,False,False,False
+GRD,Grenada,2012,7.291745488,46.1,23.911126,,False,False,False,False
+GRD,Grenada,2013,7.284847961,46.2,24.506371,,False,False,False,False
+GRD,Grenada,2014,7.385836392,46.3,25.108254,,False,False,False,False
+GRD,Grenada,2015,7.580554607,46.4,25.719947,,False,False,False,False
+GRD,Grenada,2016,7.66378894,46.4,26.344249,,False,False,False,False
+GRD,Grenada,2017,7.582491095,46.5,26.975501,,False,False,False,False
+GRD,Grenada,2018,7.797834046,46.6,27.610555,,False,False,False,False
+GRD,Grenada,2019,7.914864607,46.6,28.254652,,False,False,False,False
+GTM,Guatemala,2010,2.038736866,30.8,18.676299,13.0,False,False,False,False
+GTM,Guatemala,2011,2.067338811,31.0,19.331646,12.9,False,False,True,False
+GTM,Guatemala,2012,1.92640326,31.2,19.993515,12.8,False,False,True,False
+GTM,Guatemala,2013,1.843370326,31.3,20.659614,12.7,False,False,True,False
+GTM,Guatemala,2014,1.70654576,31.5,21.329324,12.6,False,False,True,False
+GTM,Guatemala,2015,1.668120095,31.6,22.001392,12.5,False,False,False,False
+GTM,Guatemala,2016,1.626999371,31.7,22.671826,12.5,False,False,True,False
+GTM,Guatemala,2017,1.64217856,31.9,23.34298,12.5,False,False,True,False
+GTM,Guatemala,2018,1.669625776,32.0,24.015495,,False,False,False,False
+GTM,Guatemala,2019,1.676881672,32.2,24.69409,,False,False,False,False
+GUY,Guyana,2010,5.583798656,39.8,20.140766,19.4,False,False,False,False
+GUY,Guyana,2011,5.698887422,39.9,20.763348,18.58,False,False,True,False
+GUY,Guyana,2012,5.809876312,39.9,21.393058,17.759999999999998,False,False,True,False
+GUY,Guyana,2013,5.834903773,39.9,22.048619,16.939999999999998,False,False,True,False
+GUY,Guyana,2014,5.989303178,39.9,22.732639,16.12,False,False,True,False
+GUY,Guyana,2015,5.628881642,39.9,23.43085,15.3,False,False,False,False
+GUY,Guyana,2016,5.49439927,39.9,24.14479,15.3,False,False,True,False
+GUY,Guyana,2017,5.34936885,40.0,24.868968,15.3,False,False,True,False
+GUY,Guyana,2018,5.164511393,40.0,25.501269,,False,False,False,False
+GUY,Guyana,2019,5.112674825,40.0,26.19327,,False,False,False,False
+HND,Honduras,2010,2.667076405,33.8,21.26793,14.6,False,False,False,False
+HND,Honduras,2011,2.689449597,33.9,21.959645,14.379999999999999,False,False,True,False
+HND,Honduras,2012,2.672385502,33.9,22.652227,14.16,False,False,True,False
+HND,Honduras,2013,2.66089997,33.9,23.341705,13.94,False,False,True,False
+HND,Honduras,2014,2.394026395,33.9,24.029779,13.72,False,False,True,False
+HND,Honduras,2015,2.462715537,33.9,24.712892,13.5,False,False,False,False
+HND,Honduras,2016,2.498145551,33.8,25.391144,13.5,False,False,True,False
+HND,Honduras,2017,2.634825431,33.9,26.065275,13.5,False,False,True,False
+HND,Honduras,2018,2.797600065,33.9,26.735908,,False,False,False,False
+HND,Honduras,2019,2.800783483,33.9,27.409381,,False,False,False,False
+HRV,Croatia,2010,10.48654399,47.4,21.602014,35.5,False,False,False,False
+HRV,Croatia,2011,10.7497048,47.5,22.28428,35.62,False,False,True,False
+HRV,Croatia,2012,10.52537289,47.7,22.972018,35.74,False,False,True,False
+HRV,Croatia,2013,10.68841143,47.8,23.665647,35.86,False,False,True,False
+HRV,Croatia,2014,9.819162893,47.9,24.372014,35.980000000000004,False,False,True,False
+HRV,Croatia,2015,10.07741289,48.0,25.097725,36.1,False,False,False,False
+HRV,Croatia,2016,10.17027401,48.1,25.843117,36.1,False,False,True,False
+HRV,Croatia,2017,9.76054193,48.2,26.601753,36.1,False,False,True,False
+HRV,Croatia,2018,10.16689299,48.3,27.369842,,False,False,False,False
+HRV,Croatia,2019,10.71456028,48.4,28.151074,,False,False,False,False
+HTI,Haiti,2010,2.296361277,41.8,7.884635,9.6,False,False,False,False
+HTI,Haiti,2011,2.388194842,42.0,8.0980681,9.459999999999999,False,False,True,False
+HTI,Haiti,2012,2.454937627,42.1,8.3101414,9.32,False,False,True,False
+HTI,Haiti,2013,2.874234009,42.2,8.5198566,9.18,False,False,True,False
+HTI,Haiti,2014,2.720215229,42.3,8.731962,9.040000000000001,False,False,True,False
+HTI,Haiti,2015,2.806745582,42.4,8.9494608,8.9,False,False,False,False
+HTI,Haiti,2016,2.977966493,42.5,9.1748953,8.9,False,False,True,False
+HTI,Haiti,2017,3.15767642,42.7,9.4076797,8.9,False,False,True,False
+HTI,Haiti,2018,3.153054806,42.8,9.6456476,,False,False,False,False
+HTI,Haiti,2019,2.854376855,42.9,9.8911174,,False,False,False,False
+HUN,Hungary,2010,10.67,48.9,24.020253,34.9,False,False,False,False
+HUN,Hungary,2011,11.34,48.8,24.605268,34.68,False,False,True,False
+HUN,Hungary,2012,11.12,48.8,25.190017,34.46,False,False,True,False
+HUN,Hungary,2013,10.71,48.7,25.782961,34.239999999999995,False,False,True,False
+HUN,Hungary,2014,10.92,48.6,26.386806,34.019999999999996,False,False,True,False
+HUN,Hungary,2015,10.95,48.6,27.009073,33.8,False,False,False,False
+HUN,Hungary,2016,11.3,48.5,27.648953,33.8,False,False,True,False
+HUN,Hungary,2017,10.82,48.5,28.300494,33.8,False,False,True,False
+HUN,Hungary,2018,11.41,48.4,28.959036,,False,False,False,False
+HUN,Hungary,2019,10.82,48.3,29.625481,,False,False,False,False
+IDN,Indonesia,2010,0.073909351,35.5,5.1796578,36.2,False,False,False,False
+IDN,Indonesia,2011,0.074273124,36.0,5.543277,36.38,False,False,True,False
+IDN,Indonesia,2012,0.075445227,36.4,5.9302207,36.56,False,False,True,False
+IDN,Indonesia,2013,0.084740231,36.9,6.3434653,36.74,False,False,True,False
+IDN,Indonesia,2014,0.084682926,37.3,6.7850232,36.92,False,False,True,False
+IDN,Indonesia,2015,0.071787948,37.9,7.2550252,37.1,False,False,False,False
+IDN,Indonesia,2016,0.081652503,38.4,7.7526502,37.1,False,False,True,False
+IDN,Indonesia,2017,0.078953031,39.0,8.2752839,37.1,False,False,True,False
+IDN,Indonesia,2018,0.079934578,39.6,8.8201396,,False,False,False,False
+IDN,Indonesia,2019,0.081384362,40.3,9.38638,,False,False,False,False
+IND,India,2010,2.705524545,31.7,3.6510125,38.3,False,False,False,False
+IND,India,2011,2.943972299,31.7,3.8772564,36.94,False,False,True,False
+IND,India,2012,3.029628681,31.6,4.1136436,35.58,False,False,True,False
+IND,India,2013,3.025382104,31.5,4.36376,34.22,False,False,True,False
+IND,India,2014,2.994619657,31.4,4.6272144,32.86,False,False,True,False
+IND,India,2015,3.004552028,31.4,4.9092956,31.5,False,False,False,False
+IND,India,2016,2.932370535,31.3,5.2089281,31.5,False,False,True,False
+IND,India,2017,2.806623886,31.2,5.5232517,31.5,False,False,True,False
+IND,India,2018,3.007702189,31.2,5.8483705,,False,False,False,False
+IND,India,2019,3.045416609,31.1,6.183831,,False,False,False,False
+IRL,Ireland,2010,11.7,34.9,24.390015,26.8,False,False,False,False
+IRL,Ireland,2011,11.7,34.6,24.72886,26.12,False,False,True,False
+IRL,Ireland,2012,11.52,34.3,25.045148,25.44,False,False,True,False
+IRL,Ireland,2013,10.56,34.0,25.353783,24.759999999999998,False,False,True,False
+IRL,Ireland,2014,10.86,33.7,25.661168,24.08,False,False,True,False
+IRL,Ireland,2015,10.7,33.4,25.976068,23.4,False,False,False,False
+IRL,Ireland,2016,11.17,33.1,26.30347,23.4,False,False,True,False
+IRL,Ireland,2017,11.0,32.8,26.633778,23.4,False,False,True,False
+IRL,Ireland,2018,11.03,32.6,26.964924,,False,False,False,False
+IRL,Ireland,2019,10.78,32.3,27.298057,,False,False,False,False
+IRN,"Iran, Islamic Rep.",2010,0.0,,,,False,False,False,False
+IRN,"Iran, Islamic Rep.",2011,0.0,,,,False,False,False,False
+IRN,"Iran, Islamic Rep.",2012,0.0,,,,False,False,False,False
+IRN,"Iran, Islamic Rep.",2013,0.0,,,,False,False,False,False
+IRN,"Iran, Islamic Rep.",2014,0.0,,,,False,False,False,False
+IRN,"Iran, Islamic Rep.",2015,0.0,,,,False,False,False,False
+IRN,"Iran, Islamic Rep.",2016,0.0,,,,False,False,False,False
+IRN,"Iran, Islamic Rep.",2017,0.0,,,,False,False,False,False
+IRN,"Iran, Islamic Rep.",2018,0.0,,,,False,False,False,False
+IRN,"Iran, Islamic Rep.",2019,0.0,,,,False,False,False,False
+IRQ,Iraq,2010,0.477919289,47.2,33.080718,20.1,False,False,False,False
+IRQ,Iraq,2011,0.523361186,47.4,33.732191,19.98,False,False,True,False
+IRQ,Iraq,2012,0.513345093,47.5,34.378171,19.86,False,False,True,False
+IRQ,Iraq,2013,0.46458798,47.7,35.021371,19.740000000000002,False,False,True,False
+IRQ,Iraq,2014,0.436092274,47.8,35.668409,19.62,False,False,True,False
+IRQ,Iraq,2015,0.48312192,47.9,36.316866,19.5,False,False,False,False
+IRQ,Iraq,2016,0.478118639,47.9,36.971766,19.5,False,False,True,False
+IRQ,Iraq,2017,0.476666,48.0,37.598753,19.5,False,False,True,False
+IRQ,Iraq,2018,0.480338664,48.1,38.184744,,False,False,False,False
+IRQ,Iraq,2019,0.464340578,48.1,38.754812,,False,False,False,False
+ISL,Iceland,2010,6.79,31.8,18.295467,18.3,False,False,False,False
+ISL,Iceland,2011,6.84,31.3,18.526702,17.400000000000002,False,False,True,False
+ISL,Iceland,2012,6.81,30.9,18.737908,16.5,False,False,True,False
+ISL,Iceland,2013,6.79,30.4,18.943284,15.600000000000001,False,False,True,False
+ISL,Iceland,2014,7.0,29.8,19.154127,14.700000000000001,False,False,True,False
+ISL,Iceland,2015,7.65,29.4,19.376221,13.8,False,False,False,False
+ISL,Iceland,2016,7.49,28.9,19.617367,13.8,False,False,True,False
+ISL,Iceland,2017,7.73,28.4,19.871011,13.8,False,False,True,False
+ISL,Iceland,2018,7.72,28.0,20.129955,,False,False,False,False
+ISL,Iceland,2019,7.43,27.5,20.391612,,False,False,False,False
+ISR,Israel,2010,2.627191238,31.2,21.784584,25.7,False,False,False,False
+ISR,Israel,2011,2.656343653,30.9,21.875264,25.2,False,False,True,False
+ISR,Israel,2012,2.724552091,30.6,21.934195,24.7,False,False,True,False
+ISR,Israel,2013,2.69841806,30.3,21.972051,24.2,False,False,True,False
+ISR,Israel,2014,2.454401658,30.1,22.001614,23.7,False,False,True,False
+ISR,Israel,2015,2.510645047,29.8,22.035493,23.2,False,False,False,False
+ISR,Israel,2016,2.482374137,29.6,22.080271,23.2,False,False,True,False
+ISR,Israel,2017,2.562362331,29.4,22.131889,23.2,False,False,True,False
+ISR,Israel,2018,2.625277405,29.3,22.185519,,False,False,False,False
+ISR,Israel,2019,2.512502197,29.1,22.24371,,False,False,False,False
+ITA,Italy,2010,6.95,38.3,15.848,24.4,False,False,False,False
+ITA,Italy,2011,6.98,37.7,15.974298,24.22,False,False,True,False
+ITA,Italy,2012,7.48,37.2,16.080904,24.04,False,False,True,False
+ITA,Italy,2013,7.35,36.6,16.17818,23.86,False,False,True,False
+ITA,Italy,2014,7.56,36.1,16.273552,23.68,False,False,True,False
+ITA,Italy,2015,7.15,35.6,16.375813,23.5,False,False,False,False
+ITA,Italy,2016,7.09,35.1,16.489515,23.5,False,False,True,False
+ITA,Italy,2017,7.59,34.7,16.610366,23.5,False,False,True,False
+ITA,Italy,2018,8.02,34.2,16.733882,,False,False,False,False
+ITA,Italy,2019,7.87,33.8,16.860232,,False,False,False,False
+JAM,Jamaica,2010,3.041978757,44.3,24.90346,13.0,False,False,False,False
+JAM,Jamaica,2011,3.07921682,44.6,25.648004,12.7,False,False,True,False
+JAM,Jamaica,2012,3.11508749,44.9,26.378387,12.4,False,False,True,False
+JAM,Jamaica,2013,3.210425938,45.1,27.095881,12.1,False,False,True,False
+JAM,Jamaica,2014,3.24685751,45.3,27.810991,11.8,False,False,True,False
+JAM,Jamaica,2015,3.322924624,45.5,28.533643,11.5,False,False,False,False
+JAM,Jamaica,2016,3.296984334,45.7,29.265657,11.5,False,False,True,False
+JAM,Jamaica,2017,3.47374533,45.9,30.004475,11.5,False,False,True,False
+JAM,Jamaica,2018,3.624622679,46.1,30.746952,,False,False,False,False
+JAM,Jamaica,2019,3.482354025,46.3,31.496364,,False,False,False,False
+JOR,Jordan,2010,0.474910384,38.5,35.557047,33.1,False,False,False,False
+JOR,Jordan,2011,0.431531458,38.4,35.932809,33.300000000000004,False,False,True,False
+JOR,Jordan,2012,0.42994313,38.4,36.277151,33.5,False,False,True,False
+JOR,Jordan,2013,0.407000705,38.4,36.585951,33.7,False,False,True,False
+JOR,Jordan,2014,0.383069382,38.3,36.873448,33.9,False,False,True,False
+JOR,Jordan,2015,0.314633806,38.2,37.154844,34.1,False,False,False,False
+JOR,Jordan,2016,0.310155137,38.1,37.430784,34.1,False,False,True,False
+JOR,Jordan,2017,0.293352257,38.0,37.659955,34.1,False,False,True,False
+JOR,Jordan,2018,0.274316552,37.9,37.841523,,False,False,False,False
+JOR,Jordan,2019,0.247905162,37.7,38.003919,,False,False,False,False
+JPN,Japan,2010,6.47,32.6,3.6568131,25.9,False,False,False,False
+JPN,Japan,2011,6.49,32.5,3.7712935,25.279999999999998,False,False,True,False
+JPN,Japan,2012,6.51,32.4,3.8877066,24.66,False,False,True,False
+JPN,Japan,2013,6.58,32.2,4.0109433,24.04,False,False,True,False
+JPN,Japan,2014,6.4,32.0,4.14261,23.42,False,False,True,False
+JPN,Japan,2015,6.48,31.9,4.2841185,22.8,False,False,False,False
+JPN,Japan,2016,6.47,31.8,4.4355944,22.8,False,False,True,False
+JPN,Japan,2017,6.49,31.7,4.5944721,22.8,False,False,True,False
+JPN,Japan,2018,6.4,31.6,4.76216,,False,False,False,False
+JPN,Japan,2019,6.34,31.4,4.9390111,,False,False,False,False
+KAZ,Kazakhstan,2010,3.88,41.7,15.669055,28.4,False,False,False,False
+KAZ,Kazakhstan,2011,3.36,41.8,15.868527,27.86,False,False,True,False
+KAZ,Kazakhstan,2012,3.68,41.9,16.077073,27.32,False,False,True,False
+KAZ,Kazakhstan,2013,3.74,42.0,16.296773,26.779999999999998,False,False,True,False
+KAZ,Kazakhstan,2014,3.59,42.0,16.521442,26.24,False,False,True,False
+KAZ,Kazakhstan,2015,3.38,42.0,16.749354,25.7,False,False,False,False
+KAZ,Kazakhstan,2016,3.63,42.0,16.977122,25.7,False,False,True,False
+KAZ,Kazakhstan,2017,3.73,42.0,17.1986,25.7,False,False,True,False
+KAZ,Kazakhstan,2018,4.21,42.0,17.416993,,False,False,False,False
+KAZ,Kazakhstan,2019,3.78,41.9,17.639442,,False,False,False,False
+KEN,Kenya,2010,2.125604059,37.1,7.4170448,14.7,False,False,False,False
+KEN,Kenya,2011,2.097531443,36.8,7.7635586,14.32,False,False,True,False
+KEN,Kenya,2012,2.251123556,36.5,8.1158139,13.94,False,False,True,False
+KEN,Kenya,2013,2.322292404,36.1,8.4763825,13.56,False,False,True,False
+KEN,Kenya,2014,2.221442986,35.7,8.8493817,13.18,False,False,True,False
+KEN,Kenya,2015,2.315504259,35.2,9.236908,12.8,False,False,False,False
+KEN,Kenya,2016,2.295335691,34.7,9.6398227,12.8,False,False,True,False
+KEN,Kenya,2017,2.443835728,34.2,10.059517,12.8,False,False,True,False
+KEN,Kenya,2018,2.329757108,33.7,10.493397,,False,False,False,False
+KEN,Kenya,2019,2.385653497,33.2,10.942467,,False,False,False,False
+KGZ,Kyrgyz Republic,2010,6.02,,,,False,False,False,False
+KGZ,Kyrgyz Republic,2011,5.98,,,,False,False,False,False
+KGZ,Kyrgyz Republic,2012,6.04,,,,False,False,False,False
+KGZ,Kyrgyz Republic,2013,6.12,,,,False,False,False,False
+KGZ,Kyrgyz Republic,2014,6.3,,,,False,False,False,False
+KGZ,Kyrgyz Republic,2015,5.5,,,,False,False,False,False
+KGZ,Kyrgyz Republic,2016,5.46,,,,False,False,False,False
+KGZ,Kyrgyz Republic,2017,5.01,,,,False,False,False,False
+KGZ,Kyrgyz Republic,2018,4.57,,,,False,False,False,False
+KGZ,Kyrgyz Republic,2019,4.18,,,,False,False,False,False
+KHM,Cambodia,2010,2.111265272,23.9,1.9509315,28.0,False,False,False,False
+KHM,Cambodia,2011,2.356016234,24.0,2.0869654,26.94,False,False,True,False
+KHM,Cambodia,2012,2.462088255,24.1,2.2327077,25.88,False,False,True,False
+KHM,Cambodia,2013,2.756971547,24.3,2.3896115,24.82,False,False,True,False
+KHM,Cambodia,2014,3.109983048,24.4,2.5585286,23.759999999999998,False,False,True,False
+KHM,Cambodia,2015,3.402734678,24.6,2.7404308,22.7,False,False,False,False
+KHM,Cambodia,2016,4.029832879,24.9,2.9347949,22.7,False,False,True,False
+KHM,Cambodia,2017,4.562711403,25.1,3.1408381,22.7,False,False,True,False
+KHM,Cambodia,2018,5.033566998,25.4,3.3583373,,False,False,False,False
+KHM,Cambodia,2019,6.527857533,25.7,3.5881002,,False,False,False,False
+KIR,Kiribati,2010,0.299339908,34.5,42.538646,53.4,False,False,False,False
+KIR,Kiribati,2011,0.396152912,35.4,42.866999,52.14,False,False,True,False
+KIR,Kiribati,2012,0.394154255,36.2,43.17975,50.88,False,False,True,False
+KIR,Kiribati,2013,0.276533168,37.1,43.488798,49.62,False,False,True,False
+KIR,Kiribati,2014,0.426145062,38.0,43.795848,48.36,False,False,True,False
+KIR,Kiribati,2015,0.771187962,38.8,44.099054,47.1,False,False,False,False
+KIR,Kiribati,2016,0.5779228,39.7,44.406217,47.1,False,False,True,False
+KIR,Kiribati,2017,0.427989889,40.6,44.718698,47.1,False,False,True,False
+KIR,Kiribati,2018,0.380697614,41.5,45.03375,,False,False,False,False
+KIR,Kiribati,2019,0.335777048,42.3,45.348695,,False,False,False,False
+KNA,St. Kitts and Nevis,2010,8.456417995,,,,False,False,False,False
+KNA,St. Kitts and Nevis,2011,8.650896182,,,,False,False,False,False
+KNA,St. Kitts and Nevis,2012,8.749788757,,,,False,False,False,False
+KNA,St. Kitts and Nevis,2013,8.788651801,,,,False,False,False,False
+KNA,St. Kitts and Nevis,2014,8.899564994,,,,False,False,False,False
+KNA,St. Kitts and Nevis,2015,8.737250883,,,,False,False,False,False
+KNA,St. Kitts and Nevis,2016,9.283281176,,,,False,False,False,False
+KNA,St. Kitts and Nevis,2017,9.428905836,,,,False,False,False,False
+KNA,St. Kitts and Nevis,2018,9.141687272,,,,False,False,False,False
+KNA,St. Kitts and Nevis,2019,9.496557072,,,,False,False,False,False
+KOR,"Korea, Rep.",2010,8.91,,,,False,False,False,False
+KOR,"Korea, Rep.",2011,8.86,,,,False,False,False,False
+KOR,"Korea, Rep.",2012,8.98,,,,False,False,False,False
+KOR,"Korea, Rep.",2013,8.77,,,,False,False,False,False
+KOR,"Korea, Rep.",2014,8.95,,,,False,False,False,False
+KOR,"Korea, Rep.",2015,9.1,,,,False,False,False,False
+KOR,"Korea, Rep.",2016,8.68,,,,False,False,False,False
+KOR,"Korea, Rep.",2017,8.64,,,,False,False,False,False
+KOR,"Korea, Rep.",2018,8.47,,,,False,False,False,False
+KOR,"Korea, Rep.",2019,8.27,,,,False,False,False,False
+KWT,Kuwait,2010,0.082426331,41.3,40.339044,20.1,False,False,False,False
+KWT,Kuwait,2011,0.076104237,41.2,40.551677,20.060000000000002,False,False,True,False
+KWT,Kuwait,2012,0.070486449,41.2,40.69007,20.02,False,False,True,False
+KWT,Kuwait,2013,0.066571778,41.1,40.822726,19.98,False,False,True,False
+KWT,Kuwait,2014,0.064514636,41.0,40.924022,19.939999999999998,False,False,True,False
+KWT,Kuwait,2015,0.058496311,40.8,40.864053,19.9,False,False,False,False
+KWT,Kuwait,2016,0.052910995,40.7,40.925047,19.9,False,False,True,False
+KWT,Kuwait,2017,0.048005026,40.7,41.046453,19.9,False,False,True,False
+KWT,Kuwait,2018,0.045126888,40.6,41.046366,,False,False,False,False
+KWT,Kuwait,2019,0.038705097,40.5,41.09782,,False,False,False,False
+LAO,Lao PDR,2010,6.125736187,,,,False,False,False,False
+LAO,Lao PDR,2011,6.159573297,,,,False,False,False,False
+LAO,Lao PDR,2012,6.119083982,,,,False,False,False,False
+LAO,Lao PDR,2013,6.315490683,,,,False,False,False,False
+LAO,Lao PDR,2014,6.569661529,,,,False,False,False,False
+LAO,Lao PDR,2015,6.810720155,,,,False,False,False,False
+LAO,Lao PDR,2016,7.363578295,,,,False,False,False,False
+LAO,Lao PDR,2017,6.979958945,,,,False,False,False,False
+LAO,Lao PDR,2018,6.636837582,,,,False,False,False,False
+LAO,Lao PDR,2019,7.684975823,,,,False,False,False,False
+LBN,Lebanon,2010,1.576399427,39.4,25.390035,35.1,False,False,False,False
+LBN,Lebanon,2011,1.474246943,39.3,25.807884,35.02,False,False,True,False
+LBN,Lebanon,2012,1.364710669,39.2,26.212105,34.940000000000005,False,False,True,False
+LBN,Lebanon,2013,1.233472972,39.1,26.605794,34.86,False,False,True,False
+LBN,Lebanon,2014,1.164757475,38.9,26.997644,34.78,False,False,True,False
+LBN,Lebanon,2015,1.185473,38.7,27.37675,34.7,False,False,False,False
+LBN,Lebanon,2016,1.300859673,38.6,27.748063,34.7,False,False,True,False
+LBN,Lebanon,2017,1.311982252,38.4,28.094995,34.7,False,False,True,False
+LBN,Lebanon,2018,1.386948792,38.3,28.414011,,False,False,False,False
+LBN,Lebanon,2019,1.404365462,38.1,28.727019,,False,False,False,False
+LBR,Liberia,2010,2.941041096,41.2,9.40644,12.3,False,False,False,False
+LBR,Liberia,2011,2.895284447,41.1,9.8425008,11.9,False,False,True,False
+LBR,Liberia,2012,2.650879623,40.9,10.276173,11.5,False,False,True,False
+LBR,Liberia,2013,2.735121657,40.7,10.732324,11.100000000000001,False,False,True,False
+LBR,Liberia,2014,2.650429274,40.5,11.226437,10.700000000000001,False,False,True,False
+LBR,Liberia,2015,2.831533181,40.3,11.765503,10.3,False,False,False,False
+LBR,Liberia,2016,2.797285612,40.0,12.356378,10.3,False,False,True,False
+LBR,Liberia,2017,2.867981768,39.8,12.998709,10.3,False,False,True,False
+LBR,Liberia,2018,2.88886378,39.6,13.692392,,False,False,False,False
+LBR,Liberia,2019,3.327088893,39.4,14.44114,,False,False,False,False
+LBY,Libya,2010,0.0,44.5,30.945957,,False,False,False,False
+LBY,Libya,2011,0.0,44.4,31.47499,,False,False,False,False
+LBY,Libya,2012,0.0,44.2,31.996799,,False,False,False,False
+LBY,Libya,2013,0.0,44.0,32.495764,,False,False,False,False
+LBY,Libya,2014,0.0,43.8,32.999763,,False,False,False,False
+LBY,Libya,2015,0.0,43.6,33.512577,,False,False,False,False
+LBY,Libya,2016,0.0,43.4,34.031776,,False,False,False,False
+LBY,Libya,2017,0.0,43.2,34.516594,,False,False,False,False
+LBY,Libya,2018,0.0,43.0,34.962755,,False,False,False,False
+LBY,Libya,2019,0.0,42.7,35.397673,,False,False,False,False
+LCA,St. Lucia,2010,10.28989715,,,,False,False,False,False
+LCA,St. Lucia,2011,10.01324555,,,,False,False,False,False
+LCA,St. Lucia,2012,9.6141068,,,,False,False,False,False
+LCA,St. Lucia,2013,9.172575633,,,,False,False,False,False
+LCA,St. Lucia,2014,9.450932048,,,,False,False,False,False
+LCA,St. Lucia,2015,9.726925883,,,,False,False,False,False
+LCA,St. Lucia,2016,10.09609969,,,,False,False,False,False
+LCA,St. Lucia,2017,10.37064662,,,,False,False,False,False
+LCA,St. Lucia,2018,10.71252093,,,,False,False,False,False
+LCA,St. Lucia,2019,11.82791275,,,,False,False,False,False
+LKA,Sri Lanka,2010,2.31,33.4,5.0065152,24.3,False,False,False,False
+LKA,Sri Lanka,2011,2.64,33.6,5.3522974,23.86,False,False,True,False
+LKA,Sri Lanka,2012,2.87,33.8,5.7161983,23.42,False,False,True,False
+LKA,Sri Lanka,2013,2.63,34.1,6.0994938,22.98,False,False,True,False
+LKA,Sri Lanka,2014,2.44,34.3,6.5056309,22.540000000000003,False,False,True,False
+LKA,Sri Lanka,2015,2.7,34.5,6.9371611,22.1,False,False,False,False
+LKA,Sri Lanka,2016,2.63,34.8,7.393799,22.1,False,False,True,False
+LKA,Sri Lanka,2017,2.56,35.0,7.8728512,22.1,False,False,True,False
+LKA,Sri Lanka,2018,2.618650033,35.3,8.3703347,,False,False,False,False
+LKA,Sri Lanka,2019,2.614641676,35.6,8.8870585,,False,False,False,False
+LSO,Lesotho,2010,2.389620614,40.6,15.057442,27.5,False,False,False,False
+LSO,Lesotho,2011,2.278691807,40.6,15.474986,27.2,False,False,True,False
+LSO,Lesotho,2012,2.107489104,40.6,15.891691,26.9,False,False,True,False
+LSO,Lesotho,2013,2.135026453,40.6,16.314992,26.6,False,False,True,False
+LSO,Lesotho,2014,2.191021683,40.5,16.751482,26.3,False,False,True,False
+LSO,Lesotho,2015,2.557180878,40.5,17.207177,26.0,False,False,False,False
+LSO,Lesotho,2016,2.21262782,40.4,17.684132,26.0,False,False,True,False
+LSO,Lesotho,2017,2.608953151,40.3,18.181264,26.0,False,False,True,False
+LSO,Lesotho,2018,4.310561827,40.2,18.697099,,False,False,False,False
+LSO,Lesotho,2019,3.036996531,40.1,19.231862,,False,False,False,False
+LTU,Lithuania,2010,11.99,51.0,22.544208,37.1,False,False,False,False
+LTU,Lithuania,2011,14.78,50.7,22.775547,36.6,False,False,True,False
+LTU,Lithuania,2012,14.99,50.3,23.000419,36.1,False,False,True,False
+LTU,Lithuania,2013,14.93,50.0,23.221868,35.6,False,False,True,False
+LTU,Lithuania,2014,14.82,49.7,23.44262,35.1,False,False,True,False
+LTU,Lithuania,2015,12.9,49.3,23.668543,34.6,False,False,False,False
+LTU,Lithuania,2016,12.24,49.0,23.899813,34.6,False,False,True,False
+LTU,Lithuania,2017,11.05,48.7,24.132235,34.6,False,False,True,False
+LTU,Lithuania,2018,10.46,48.4,24.363852,,False,False,False,False
+LTU,Lithuania,2019,10.53,48.0,24.597868,,False,False,False,False
+LUX,Luxembourg,2010,11.785,37.3,18.19734,26.4,False,False,False,False
+LUX,Luxembourg,2011,11.79,36.7,18.218373,26.099999999999998,False,False,True,False
+LUX,Luxembourg,2012,11.81,36.0,18.215747,25.799999999999997,False,False,True,False
+LUX,Luxembourg,2013,11.445,35.2,18.202345,25.5,False,False,True,False
+LUX,Luxembourg,2014,11.615,34.4,18.1905,25.2,False,False,True,False
+LUX,Luxembourg,2015,11.515,33.6,18.189709,24.9,False,False,False,False
+LUX,Luxembourg,2016,11.48,32.8,18.20253,24.9,False,False,True,False
+LUX,Luxembourg,2017,11.38,32.0,18.222183,24.9,False,False,True,False
+LUX,Luxembourg,2018,11.36,31.3,18.24723,,False,False,False,False
+LUX,Luxembourg,2019,11.1,30.5,18.277541,,False,False,False,False
+LVA,Latvia,2010,9.83,46.0,21.128373,39.6,False,False,False,False
+LVA,Latvia,2011,10.11,45.8,21.41493,39.1,False,False,True,False
+LVA,Latvia,2012,10.2,45.6,21.687561,38.6,False,False,True,False
+LVA,Latvia,2013,10.43,45.4,21.948831,38.1,False,False,True,False
+LVA,Latvia,2014,10.6,45.1,22.203989,37.6,False,False,True,False
+LVA,Latvia,2015,10.8,44.9,22.45945,37.1,False,False,False,False
+LVA,Latvia,2016,11.3,44.6,22.715725,37.1,False,False,True,False
+LVA,Latvia,2017,12.6,44.4,22.96989,37.1,False,False,True,False
+LVA,Latvia,2018,13.2,44.2,23.220201,,False,False,False,False
+LVA,Latvia,2019,12.9,43.9,23.471104,,False,False,False,False
+MAR,Morocco,2010,0.480075114,37.1,15.713571,16.5,False,False,False,False
+MAR,Morocco,2011,0.478439557,37.0,16.185528,16.18,False,False,True,False
+MAR,Morocco,2012,0.46186085,36.8,16.667043,15.86,False,False,True,False
+MAR,Morocco,2013,0.451747825,36.7,17.158288,15.540000000000001,False,False,True,False
+MAR,Morocco,2014,0.408041885,36.5,17.66246,15.22,False,False,True,False
+MAR,Morocco,2015,0.376915999,36.2,18.180078,14.9,False,False,False,False
+MAR,Morocco,2016,0.382329796,36.0,18.712403,14.9,False,False,True,False
+MAR,Morocco,2017,0.406292574,35.8,19.233605,14.9,False,False,True,False
+MAR,Morocco,2018,0.469386381,35.5,19.736782,,False,False,False,False
+MAR,Morocco,2019,0.553654563,35.3,20.234507,,False,False,False,False
+MDA,Moldova,2010,6.661586795,,,,False,False,False,False
+MDA,Moldova,2011,8.104683574,,,,False,False,False,False
+MDA,Moldova,2012,8.487032424,,,,False,False,False,False
+MDA,Moldova,2013,9.052217761,,,,False,False,False,False
+MDA,Moldova,2014,8.119594441,,,,False,False,False,False
+MDA,Moldova,2015,7.517998838,,,,False,False,False,False
+MDA,Moldova,2016,7.979550237,,,,False,False,False,False
+MDA,Moldova,2017,8.367683463,,,,False,False,False,False
+MDA,Moldova,2018,8.498536545,,,,False,False,False,False
+MDA,Moldova,2019,8.650612164,,,,False,False,False,False
+MDG,Madagascar,2010,0.662798062,40.3,2.0776283,37.0,False,False,False,False
+MDG,Madagascar,2011,0.609726675,40.1,2.1963954,36.02,False,False,True,False
+MDG,Madagascar,2012,0.557557581,39.8,2.3211032,35.04,False,False,True,False
+MDG,Madagascar,2013,0.57810459,39.4,2.4537185,34.06,False,False,True,False
+MDG,Madagascar,2014,0.705129407,39.0,2.5960824,33.08,False,False,True,False
+MDG,Madagascar,2015,0.642629419,38.6,2.7500551,32.1,False,False,False,False
+MDG,Madagascar,2016,0.658206714,38.2,2.9176658,32.1,False,False,True,False
+MDG,Madagascar,2017,0.685930962,37.8,3.0997556,32.1,False,False,True,False
+MDG,Madagascar,2018,0.687097994,37.3,3.296797,,False,False,False,False
+MDG,Madagascar,2019,0.65706107,36.9,3.5102025,,False,False,False,False
+MDV,Maldives,2010,1.618258434,33.1,10.322921,33.7,False,False,False,False
+MDV,Maldives,2011,1.601469407,33.2,10.764404,33.02,False,False,True,False
+MDV,Maldives,2012,1.563514314,33.3,11.218479,32.34,False,False,True,False
+MDV,Maldives,2013,1.570507778,33.4,11.688483,31.660000000000004,False,False,True,False
+MDV,Maldives,2014,1.532217256,33.4,12.194919,30.98,False,False,True,False
+MDV,Maldives,2015,1.646454712,33.5,12.74277,30.3,False,False,False,False
+MDV,Maldives,2016,1.719084945,33.6,13.319957,30.3,False,False,True,False
+MDV,Maldives,2017,1.514783328,33.7,13.922167,30.3,False,False,True,False
+MDV,Maldives,2018,1.763843627,33.9,14.54504,,False,False,False,False
+MDV,Maldives,2019,1.989606913,34.1,15.191363,,False,False,False,False
+MEX,Mexico,2010,4.15,35.0,27.959147,18.7,False,False,False,False
+MEX,Mexico,2011,4.1,34.9,28.64337,18.36,False,False,True,False
+MEX,Mexico,2012,3.96,34.6,29.330903,18.02,False,False,True,False
+MEX,Mexico,2013,3.85,34.3,30.013812,17.68,False,False,True,False
+MEX,Mexico,2014,3.97,33.9,30.692163,17.34,False,False,True,False
+MEX,Mexico,2015,4.31,33.6,31.363147,17.0,False,False,False,False
+MEX,Mexico,2016,4.36,33.2,32.027817,17.0,False,False,True,False
+MEX,Mexico,2017,4.63,32.8,32.686862,17.0,False,False,True,False
+MEX,Mexico,2018,4.8,32.4,33.340561,,False,False,False,False
+MEX,Mexico,2019,4.9,32.1,33.996403,,False,False,False,False
+MHL,Marshall Islands,2010,,30.3,41.266471,28.5,False,False,False,False
+MHL,Marshall Islands,2011,,30.6,41.626906,28.62,False,False,True,False
+MHL,Marshall Islands,2012,,30.8,41.991746,28.740000000000002,False,False,True,False
+MHL,Marshall Islands,2013,,31.0,42.351905,28.86,False,False,True,False
+MHL,Marshall Islands,2014,,31.2,42.714071,28.98,False,False,True,False
+MHL,Marshall Islands,2015,,31.3,43.087393,29.1,False,False,False,False
+MHL,Marshall Islands,2016,,31.5,43.461981,29.1,False,False,True,False
+MHL,Marshall Islands,2017,,31.6,43.855244,29.1,False,False,True,False
+MHL,Marshall Islands,2018,,31.7,44.239464,,False,False,False,False
+MHL,Marshall Islands,2019,,31.9,44.636723,,False,False,False,False
+MKD,North Macedonia,2010,3.747789221,45.2,21.28453,,False,False,False,False
+MKD,North Macedonia,2011,3.707738312,45.2,21.73679,,False,False,False,False
+MKD,North Macedonia,2012,3.689135823,45.2,22.195771,,False,False,False,False
+MKD,North Macedonia,2013,3.740144014,45.2,22.66286,,False,False,False,False
+MKD,North Macedonia,2014,3.66445973,45.2,23.142941,,False,False,False,False
+MKD,North Macedonia,2015,4.364224568,45.2,23.641562,,False,False,False,False
+MKD,North Macedonia,2016,5.410651822,45.2,24.159172,,False,False,False,False
+MKD,North Macedonia,2017,3.521470797,45.2,24.6889,,False,False,False,False
+MKD,North Macedonia,2018,3.689978919,45.1,25.227001,,False,False,False,False
+MKD,North Macedonia,2019,4.908972495,45.1,25.776619,,False,False,False,False
+MLI,Mali,2010,3.733365963,35.6,7.0514925,11.8,False,False,False,False
+MLI,Mali,2011,3.649807537,35.6,7.3380135,11.440000000000001,False,False,True,False
+MLI,Mali,2012,3.678603693,35.4,7.6156639,11.08,False,False,True,False
+MLI,Mali,2013,3.10616068,35.3,7.897108,10.72,False,False,True,False
+MLI,Mali,2014,3.667087498,35.2,8.1942141,10.36,False,False,True,False
+MLI,Mali,2015,3.713543638,35.1,8.5115127,10.0,False,False,False,False
+MLI,Mali,2016,3.468408212,34.9,8.8515341,10.0,False,False,True,False
+MLI,Mali,2017,3.407731796,34.8,9.213727,10.0,False,False,True,False
+MLI,Mali,2018,3.423646435,34.7,9.598849,,False,False,False,False
+MLI,Mali,2019,0.675892827,34.6,10.006309,,False,False,False,False
+MLT,Malta,2010,6.333228801,33.0,29.940382,28.8,False,False,False,False
+MLT,Malta,2011,6.762473816,32.5,30.136564,28.400000000000002,False,False,True,False
+MLT,Malta,2012,6.977267559,32.1,30.308446,28.0,False,False,True,False
+MLT,Malta,2013,7.276575129,31.7,30.467466,27.6,False,False,True,False
+MLT,Malta,2014,7.12501372,31.3,30.625662,27.2,False,False,True,False
+MLT,Malta,2015,7.36389895,30.9,30.79243,26.8,False,False,False,False
+MLT,Malta,2016,7.921856828,30.5,30.973616,26.8,False,False,True,False
+MLT,Malta,2017,8.024294356,30.2,31.166375,26.8,False,False,True,False
+MLT,Malta,2018,7.690101525,29.9,31.365338,,False,False,False,False
+MLT,Malta,2019,7.59667378,29.5,31.573185,,False,False,False,False
+MMR,Myanmar,2010,0.968960628,36.1,4.9023073,54.8,False,False,False,False
+MMR,Myanmar,2011,1.091151483,36.3,5.0703499,53.879999999999995,False,False,True,False
+MMR,Myanmar,2012,1.237714281,36.5,5.2409653,52.96,False,False,True,False
+MMR,Myanmar,2013,1.313117148,36.6,5.4171197,52.04,False,False,True,False
+MMR,Myanmar,2014,1.354497287,36.8,5.6017354,51.120000000000005,False,False,True,False
+MMR,Myanmar,2015,1.435553148,37.0,5.7964545,50.2,False,False,False,False
+MMR,Myanmar,2016,1.579681308,37.2,6.0014129,50.2,False,False,True,False
+MMR,Myanmar,2017,1.766854027,37.4,6.2154919,50.2,False,False,True,False
+MMR,Myanmar,2018,1.872713753,37.6,6.4374983,,False,False,False,False
+MMR,Myanmar,2019,2.165105577,37.8,6.6679314,,False,False,False,False
+MNE,Montenegro,2010,9.51155856,45.1,14.232114,35.2,False,False,False,False
+MNE,Montenegro,2011,9.421447208,45.1,14.509302,34.900000000000006,False,False,True,False
+MNE,Montenegro,2012,9.793598002,45.1,14.784779,34.6,False,False,True,False
+MNE,Montenegro,2013,9.624489156,45.1,15.061934,34.300000000000004,False,False,True,False
+MNE,Montenegro,2014,8.414515396,45.1,15.346488,34.0,False,False,True,False
+MNE,Montenegro,2015,7.947688381,45.1,15.64292,33.7,False,False,False,False
+MNE,Montenegro,2016,8.11609104,45.1,15.949565,33.7,False,False,True,False
+MNE,Montenegro,2017,8.581173704,45.1,16.262698,33.7,False,False,True,False
+MNE,Montenegro,2018,8.819859804,45.1,16.582115,,False,False,False,False
+MNE,Montenegro,2019,8.642571293,45.1,16.910724,,False,False,False,False
+MNG,Mongolia,2010,7.89,45.5,16.320732,31.3,False,False,False,False
+MNG,Mongolia,2011,6.79,45.4,16.975267,31.14,False,False,True,False
+MNG,Mongolia,2012,7.69,45.2,17.636368,30.98,False,False,True,False
+MNG,Mongolia,2013,12.83,45.0,18.297635,30.82,False,False,True,False
+MNG,Mongolia,2014,10.07,44.7,18.953456,30.66,False,False,True,False
+MNG,Mongolia,2015,8.49,44.4,19.60552,30.5,False,False,False,False
+MNG,Mongolia,2016,8.75,44.0,20.256303,30.5,False,False,True,False
+MNG,Mongolia,2017,6.86,43.6,20.895976,30.5,False,False,True,False
+MNG,Mongolia,2018,7.85,43.2,21.526621,,False,False,False,False
+MNG,Mongolia,2019,7.13,42.8,22.158191,,False,False,False,False
+MOZ,Mozambique,2010,0.905378085,40.7,5.5012558,,False,False,False,False
+MOZ,Mozambique,2011,0.98476371,40.6,5.7936925,,False,False,False,False
+MOZ,Mozambique,2012,1.04381989,40.5,6.0980771,,False,False,False,False
+MOZ,Mozambique,2013,1.056064789,40.3,6.4177021,,False,False,False,False
+MOZ,Mozambique,2014,1.152518891,40.1,6.7552239,,False,False,False,False
+MOZ,Mozambique,2015,1.273893364,39.8,7.1125194,,False,False,False,False
+MOZ,Mozambique,2016,1.377392955,39.5,7.4893005,,False,False,False,False
+MOZ,Mozambique,2017,1.422750923,39.2,7.8880847,,False,False,False,False
+MOZ,Mozambique,2018,1.48490861,38.9,8.311975,,False,False,False,False
+MOZ,Mozambique,2019,1.524070782,38.6,8.760038,,False,False,False,False
+MRT,Mauritania,2010,0.0,39.7,15.159988,14.8,False,False,False,False
+MRT,Mauritania,2011,0.0,39.5,15.674184,14.3,False,False,True,False
+MRT,Mauritania,2012,0.0,39.4,16.192877,13.8,False,False,True,False
+MRT,Mauritania,2013,0.0,39.2,16.72795,13.3,False,False,True,False
+MRT,Mauritania,2014,0.0,39.0,17.287061,12.8,False,False,True,False
+MRT,Mauritania,2015,0.0,38.8,17.872998,12.3,False,False,False,False
+MRT,Mauritania,2016,0.0,38.6,18.489343,12.3,False,False,True,False
+MRT,Mauritania,2017,0.0,38.3,19.133006,12.3,False,False,True,False
+MRT,Mauritania,2018,0.0,38.1,19.800936,,False,False,False,False
+MRT,Mauritania,2019,0.0,37.9,20.491625,,False,False,False,False
+MUS,Mauritius,2010,6.794546898,37.2,16.042481,23.0,False,False,False,False
+MUS,Mauritius,2011,6.935270487,36.9,16.262878,22.82,False,False,True,False
+MUS,Mauritius,2012,6.715021015,36.5,16.470829,22.64,False,False,True,False
+MUS,Mauritius,2013,6.783854677,36.1,16.677466,22.46,False,False,True,False
+MUS,Mauritius,2014,6.733301307,35.6,16.892472,22.28,False,False,True,False
+MUS,Mauritius,2015,6.881279853,35.1,17.121787,22.1,False,False,False,False
+MUS,Mauritius,2016,7.290456897,34.6,17.369857,22.1,False,False,True,False
+MUS,Mauritius,2017,7.251098519,34.1,17.634363,22.1,False,False,True,False
+MUS,Mauritius,2018,7.291150339,33.6,17.915215,,False,False,False,False
+MUS,Mauritius,2019,7.182125086,33.1,18.213682,,False,False,False,False
+MWI,Malawi,2010,2.01880224,36.5,4.0310543,15.8,False,False,False,False
+MWI,Malawi,2011,2.028721178,35.9,4.2598635,15.22,False,False,True,False
+MWI,Malawi,2012,2.063792669,35.2,4.4976622,14.64,False,False,True,False
+MWI,Malawi,2013,2.034876866,34.5,4.7459509,14.06,False,False,True,False
+MWI,Malawi,2014,1.998226435,33.7,5.0087925,13.48,False,False,True,False
+MWI,Malawi,2015,1.877934332,32.9,5.2871391,12.9,False,False,False,False
+MWI,Malawi,2016,1.656900198,32.0,5.5818748,12.9,False,False,True,False
+MWI,Malawi,2017,1.661499852,31.2,5.8946572,12.9,False,False,True,False
+MWI,Malawi,2018,1.760398698,30.3,6.2252,,False,False,False,False
+MWI,Malawi,2019,1.194201062,29.5,6.5726653,,False,False,False,False
+MYS,Malaysia,2010,0.492518643,42.0,14.947923,26.0,False,False,False,False
+MYS,Malaysia,2011,0.521513919,41.9,15.492828,25.6,False,False,True,False
+MYS,Malaysia,2012,0.537154276,41.8,16.034755,25.2,False,False,True,False
+MYS,Malaysia,2013,0.533927333,41.6,16.582549,24.8,False,False,True,False
+MYS,Malaysia,2014,0.531413594,41.5,17.143068,24.4,False,False,True,False
+MYS,Malaysia,2015,0.607160608,41.3,17.717817,24.0,False,False,False,False
+MYS,Malaysia,2016,0.667490153,41.2,18.307604,24.0,False,False,True,False
+MYS,Malaysia,2017,0.705251682,41.0,18.909831,24.0,False,False,True,False
+MYS,Malaysia,2018,0.670596105,40.9,19.522338,,False,False,False,False
+MYS,Malaysia,2019,0.695170877,40.8,20.145483,,False,False,False,False
+NAM,Namibia,2010,8.946070032,45.5,13.522342,19.4,False,False,False,False
+NAM,Namibia,2011,9.131451486,45.5,13.778745,18.9,False,False,True,False
+NAM,Namibia,2012,9.552534209,45.3,14.024325,18.4,False,False,True,False
+NAM,Namibia,2013,9.661651138,45.2,14.267106,17.9,False,False,True,False
+NAM,Namibia,2014,11.23567589,45.0,14.516743,17.4,False,False,True,False
+NAM,Namibia,2015,11.94919247,44.7,14.7756,16.9,False,False,False,False
+NAM,Namibia,2016,11.62907107,44.5,15.04788,16.9,False,False,True,False
+NAM,Namibia,2017,10.99102313,44.3,15.332749,16.9,False,False,True,False
+NAM,Namibia,2018,9.948969086,44.0,15.628593,,False,False,False,False
+NAM,Namibia,2019,10.76645047,43.8,15.936892,,False,False,False,False
+NER,Niger,2010,0.113259946,43.8,3.6594268,8.6,False,False,False,False
+NER,Niger,2011,0.117621388,43.6,3.7989847,8.5,False,False,True,False
+NER,Niger,2012,0.115658172,43.4,3.935124,8.4,False,False,True,False
+NER,Niger,2013,0.114697602,43.1,4.0748402,8.299999999999999,False,False,True,False
+NER,Niger,2014,0.121446871,42.9,4.22494,8.2,False,False,True,False
+NER,Niger,2015,0.118915417,42.6,4.388018,8.1,False,False,False,False
+NER,Niger,2016,0.12613677,42.3,4.5665365,8.1,False,False,True,False
+NER,Niger,2017,0.10290532,42.1,4.7600351,8.1,False,False,True,False
+NER,Niger,2018,0.077605387,41.8,4.9689546,,False,False,False,False
+NER,Niger,2019,0.054406288,41.5,5.1939301,,False,False,False,False
+NGA,Nigeria,2010,2.303904637,36.4,8.1288926,6.1,False,False,False,False
+NGA,Nigeria,2011,1.363661382,36.3,8.40123,5.819999999999999,False,False,True,False
+NGA,Nigeria,2012,1.354796104,36.3,8.6651377,5.54,False,False,True,False
+NGA,Nigeria,2013,1.390565151,36.2,8.9344248,5.26,False,False,True,False
+NGA,Nigeria,2014,2.022197467,36.2,9.2218213,4.98,False,False,True,False
+NGA,Nigeria,2015,1.46826136,36.1,9.5309578,4.7,False,False,False,False
+NGA,Nigeria,2016,1.441699957,36.1,9.8654822,4.7,False,False,True,False
+NGA,Nigeria,2017,1.439938521,36.1,10.223781,4.7,False,False,True,False
+NGA,Nigeria,2018,1.480304403,36.1,10.604426,,False,False,False,False
+NGA,Nigeria,2019,1.492733671,36.1,11.007848,,False,False,False,False
+NIC,Nicaragua,2010,3.354797691,36.2,26.217532,,False,False,False,False
+NIC,Nicaragua,2011,3.360921032,36.3,26.860362,,False,False,False,False
+NIC,Nicaragua,2012,3.59992104,36.3,27.499872,,False,False,False,False
+NIC,Nicaragua,2013,3.548386011,36.2,28.132114,,False,False,False,False
+NIC,Nicaragua,2014,3.523887962,36.1,28.759262,,False,False,False,False
+NIC,Nicaragua,2015,3.697990797,36.1,29.378548,,False,False,False,False
+NIC,Nicaragua,2016,3.774796069,36.0,29.988992,,False,False,False,False
+NIC,Nicaragua,2017,3.836249407,35.9,30.59198,,False,False,False,False
+NIC,Nicaragua,2018,3.737973788,35.9,31.189147,,False,False,False,False
+NIC,Nicaragua,2019,3.557402153,35.8,31.785649,,False,False,False,False
+NLD,Netherlands,2010,9.07,,,,False,False,False,False
+NLD,Netherlands,2011,9.01,,,,False,False,False,False
+NLD,Netherlands,2012,9.06,,,,False,False,False,False
+NLD,Netherlands,2013,8.58,,,,False,False,False,False
+NLD,Netherlands,2014,8.38,,,,False,False,False,False
+NLD,Netherlands,2015,8.29,,,,False,False,False,False
+NLD,Netherlands,2016,8.27,,,,False,False,False,False
+NLD,Netherlands,2017,8.27,,,,False,False,False,False
+NLD,Netherlands,2018,8.34,,,,False,False,False,False
+NLD,Netherlands,2019,8.25,,,,False,False,False,False
+NOR,Norway,2010,6.59,34.8,16.007401,26.6,False,False,False,False
+NOR,Norway,2011,6.44,34.4,16.27132,25.380000000000003,False,False,True,False
+NOR,Norway,2012,6.21,33.9,16.51504,24.16,False,False,True,False
+NOR,Norway,2013,6.21,33.4,16.749644,22.94,False,False,True,False
+NOR,Norway,2014,6.06,32.9,16.985381,21.72,False,False,True,False
+NOR,Norway,2015,5.97,32.4,17.229509,20.5,False,False,False,False
+NOR,Norway,2016,6.03,31.9,17.484917,20.5,False,False,True,False
+NOR,Norway,2017,6.0,31.5,17.744565,20.5,False,False,True,False
+NOR,Norway,2018,6.02,31.0,18.006486,,False,False,False,False
+NOR,Norway,2019,6.05,30.5,18.27383,,False,False,False,False
+NPL,Nepal,2010,0.997489887,36.5,2.8780757,44.0,False,False,False,False
+NPL,Nepal,2011,0.948771904,36.5,3.1188957,42.46,False,False,True,False
+NPL,Nepal,2012,0.903379796,36.4,3.3777904,40.92,False,False,True,False
+NPL,Nepal,2013,1.000992286,36.3,3.6559019,39.379999999999995,False,False,True,False
+NPL,Nepal,2014,0.645019317,36.2,3.9538346,37.839999999999996,False,False,True,False
+NPL,Nepal,2015,0.968954695,36.1,4.2730581,36.3,False,False,False,False
+NPL,Nepal,2016,1.08475118,36.1,4.6127357,36.3,False,False,True,False
+NPL,Nepal,2017,0.976892404,36.1,4.9701408,36.3,False,False,True,False
+NPL,Nepal,2018,0.979558664,36.1,5.3428523,,False,False,False,False
+NPL,Nepal,2019,1.336171765,36.1,5.7317641,,False,False,False,False
+NRU,Nauru,2010,4.444957,37.9,66.88872,55.6,False,False,False,False
+NRU,Nauru,2011,4.246743,38.4,67.125207,55.0,False,False,True,False
+NRU,Nauru,2012,3.498707,38.8,67.379338,54.4,False,False,True,False
+NRU,Nauru,2013,2.44179,39.3,67.584288,53.800000000000004,False,False,True,False
+NRU,Nauru,2014,2.44179,39.7,67.833942,53.2,False,False,True,False
+NRU,Nauru,2015,2.44179,40.1,68.121213,52.6,False,False,False,False
+NRU,Nauru,2016,2.44179,40.5,68.415689,52.6,False,False,True,False
+NRU,Nauru,2017,2.44179,40.9,68.722552,52.6,False,False,True,False
+NRU,Nauru,2018,2.44179,41.4,68.965131,,False,False,False,False
+NRU,Nauru,2019,2.382,41.8,69.169968,,False,False,False,False
+NZL,New Zealand,2010,9.68,32.4,28.353316,20.1,False,False,False,False
+NZL,New Zealand,2011,9.52,32.3,28.837189,19.36,False,False,True,False
+NZL,New Zealand,2012,9.29,32.1,29.290628,18.62,False,False,True,False
+NZL,New Zealand,2013,9.26,31.9,29.729176,17.88,False,False,True,False
+NZL,New Zealand,2014,9.08,31.7,30.157989,17.14,False,False,True,False
+NZL,New Zealand,2015,8.72,31.5,30.588284,16.4,False,False,False,False
+NZL,New Zealand,2016,8.98,31.4,31.023669,16.4,False,False,True,False
+NZL,New Zealand,2017,8.94,31.2,31.45566,16.4,False,False,True,False
+NZL,New Zealand,2018,8.91,31.0,31.879407,,False,False,False,False
+NZL,New Zealand,2019,8.8,30.9,32.297948,,False,False,False,False
+OMN,Oman,2010,0.549523884,46.9,24.125354,7.9,False,False,False,False
+OMN,Oman,2011,0.514182406,46.9,24.481413,7.94,False,False,True,False
+OMN,Oman,2012,0.480965084,46.8,24.863085,7.98,False,False,True,False
+OMN,Oman,2013,0.445645455,46.7,25.321573,8.02,False,False,True,False
+OMN,Oman,2014,0.4322763,46.6,25.897697,8.06,False,False,True,False
+OMN,Oman,2015,0.471406955,46.5,26.511091,8.1,False,False,False,False
+OMN,Oman,2016,0.475584971,46.3,27.111796,8.1,False,False,True,False
+OMN,Oman,2017,0.493507451,46.1,27.710861,8.1,False,False,True,False
+OMN,Oman,2018,0.516073157,45.9,28.330603,,False,False,False,False
+OMN,Oman,2019,0.525179999,45.6,28.999919,,False,False,False,False
+PAK,Pakistan,2010,0.045167483,41.4,11.211558,28.0,False,False,False,False
+PAK,Pakistan,2011,0.045834229,41.6,11.950167,27.14,False,False,True,False
+PAK,Pakistan,2012,0.042421593,41.8,12.738256,26.28,False,False,True,False
+PAK,Pakistan,2013,0.042572652,42.0,13.577782,25.42,False,False,True,False
+PAK,Pakistan,2014,0.04899232,42.2,14.468773,24.56,False,False,True,False
+PAK,Pakistan,2015,0.050996594,42.4,15.419169,23.7,False,False,False,False
+PAK,Pakistan,2016,0.054848544,42.6,16.423303,23.7,False,False,True,False
+PAK,Pakistan,2017,0.056334385,42.8,17.46247,23.7,False,False,True,False
+PAK,Pakistan,2018,0.057862909,43.0,18.522559,,False,False,False,False
+PAK,Pakistan,2019,0.058646141,43.2,19.606707,,False,False,False,False
+PAN,Panama,2010,6.14504815,36.3,24.923046,8.8,False,False,False,False
+PAN,Panama,2011,6.200719765,36.3,25.803062,8.46,False,False,True,False
+PAN,Panama,2012,6.327541258,36.3,26.70013,8.120000000000001,False,False,True,False
+PAN,Panama,2013,6.337984456,36.3,27.608785,7.78,False,False,True,False
+PAN,Panama,2014,6.464300294,36.3,28.528488,7.4399999999999995,False,False,True,False
+PAN,Panama,2015,6.545264065,36.2,29.454812,7.1,False,False,False,False
+PAN,Panama,2016,6.330651715,36.2,30.384517,7.1,False,False,True,False
+PAN,Panama,2017,6.797113077,36.1,31.317961,7.1,False,False,True,False
+PAN,Panama,2018,6.629408781,36.1,32.253331,,False,False,False,False
+PAN,Panama,2019,6.601980557,36.1,33.192843,,False,False,False,False
+PER,Peru,2010,5.879605727,19.8,17.048934,16.7,False,False,False,False
+PER,Peru,2011,6.136159022,19.8,17.73762,15.7,False,False,True,False
+PER,Peru,2012,6.362158994,19.8,18.462308,14.7,False,False,True,False
+PER,Peru,2013,6.085212289,19.8,19.219597,13.7,False,False,True,False
+PER,Peru,2014,5.68900294,19.9,20.006402,12.7,False,False,True,False
+PER,Peru,2015,5.702156658,19.9,20.822753,11.7,False,False,False,False
+PER,Peru,2016,5.799920381,20.1,21.671675,11.7,False,False,True,False
+PER,Peru,2017,5.821741956,20.3,22.550051,11.7,False,False,True,False
+PER,Peru,2018,5.79890564,20.5,23.451266,,False,False,False,False
+PER,Peru,2019,5.639752604,20.7,24.375686,,False,False,False,False
+PHL,Philippines,2010,5.027889008,33.2,5.2867062,27.7,False,False,False,False
+PHL,Philippines,2011,5.006426767,33.3,5.5086218,27.04,False,False,True,False
+PHL,Philippines,2012,5.199599001,33.3,5.7379015,26.38,False,False,True,False
+PHL,Philippines,2013,4.560775221,33.3,5.9783202,25.72,False,False,True,False
+PHL,Philippines,2014,4.730319528,33.3,6.2315986,25.06,False,False,True,False
+PHL,Philippines,2015,4.569442005,33.4,6.4980425,24.4,False,False,False,False
+PHL,Philippines,2016,4.580300966,33.5,6.7783259,24.4,False,False,True,False
+PHL,Philippines,2017,4.85462959,33.6,7.0713088,24.4,False,False,True,False
+PHL,Philippines,2018,4.995200187,33.7,7.3764674,,False,False,False,False
+PHL,Philippines,2019,5.000267215,33.8,7.6948173,,False,False,False,False
+PLW,Palau,2010,,43.8,38.840416,21.5,False,False,False,False
+PLW,Palau,2011,,44.1,39.016557,21.12,False,False,True,False
+PLW,Palau,2012,,44.3,39.187428,20.740000000000002,False,False,True,False
+PLW,Palau,2013,,44.4,39.344534,20.36,False,False,True,False
+PLW,Palau,2014,,44.4,39.497992,19.98,False,False,True,False
+PLW,Palau,2015,,44.4,39.665917,19.6,False,False,False,False
+PLW,Palau,2016,,44.3,39.845008,19.6,False,False,True,False
+PLW,Palau,2017,,44.3,40.031931,19.6,False,False,True,False
+PLW,Palau,2018,,44.3,40.231463,,False,False,False,False
+PLW,Palau,2019,,44.2,40.442875,,False,False,False,False
+PNG,Papua New Guinea,2010,0.736244883,23.6,16.261414,46.6,False,False,False,False
+PNG,Papua New Guinea,2011,0.800221191,24.0,16.529809,45.980000000000004,False,False,True,False
+PNG,Papua New Guinea,2012,0.925338601,24.5,16.811723,45.36,False,False,True,False
+PNG,Papua New Guinea,2013,0.956927524,24.9,17.107564,44.74,False,False,True,False
+PNG,Papua New Guinea,2014,1.12962623,25.3,17.418428,44.12,False,False,True,False
+PNG,Papua New Guinea,2015,1.096384963,25.8,17.747366,43.5,False,False,False,False
+PNG,Papua New Guinea,2016,1.066870691,26.3,18.093632,43.5,False,False,True,False
+PNG,Papua New Guinea,2017,1.557927021,26.8,18.45503,43.5,False,False,True,False
+PNG,Papua New Guinea,2018,0.920972947,27.3,18.829812,,False,False,False,False
+PNG,Papua New Guinea,2019,0.947974373,27.8,19.222926,,False,False,False,False
+POL,Poland,2010,10.07,46.9,21.273522,30.9,False,False,False,False
+POL,Poland,2011,10.24,47.1,21.739896,30.24,False,False,True,False
+POL,Poland,2012,10.2,47.3,22.209713,29.58,False,False,True,False
+POL,Poland,2013,10.81,47.5,22.685766,28.92,False,False,True,False
+POL,Poland,2014,10.46,47.8,23.173168,28.26,False,False,True,False
+POL,Poland,2015,10.48,48.1,23.678488,27.6,False,False,False,False
+POL,Poland,2016,10.44,48.4,24.198614,27.6,False,False,True,False
+POL,Poland,2017,10.57,48.7,24.725793,27.6,False,False,True,False
+POL,Poland,2018,10.67,48.9,25.256565,,False,False,False,False
+POL,Poland,2019,10.98,49.2,25.795126,,False,False,False,False
+PRK,"Korea, Dem. People's Rep.",2010,3.504092803,,,,False,False,False,False
+PRK,"Korea, Dem. People's Rep.",2011,3.498583378,,,,False,False,False,False
+PRK,"Korea, Dem. People's Rep.",2012,3.515488575,,,,False,False,False,False
+PRK,"Korea, Dem. People's Rep.",2013,3.523915376,,,,False,False,False,False
+PRK,"Korea, Dem. People's Rep.",2014,3.463630376,,,,False,False,False,False
+PRK,"Korea, Dem. People's Rep.",2015,3.383606843,,,,False,False,False,False
+PRK,"Korea, Dem. People's Rep.",2016,3.508299625,,,,False,False,False,False
+PRK,"Korea, Dem. People's Rep.",2017,3.3353024,,,,False,False,False,False
+PRK,"Korea, Dem. People's Rep.",2018,3.271140001,,,,False,False,False,False
+PRK,"Korea, Dem. People's Rep.",2019,3.714153796,,,,False,False,False,False
+PRT,Portugal,2010,11.26,35.7,18.134543,25.5,False,False,False,False
+PRT,Portugal,2011,10.84,35.3,18.419355,25.5,False,False,True,False
+PRT,Portugal,2012,9.76,34.9,18.694066,25.5,False,False,True,False
+PRT,Portugal,2013,9.52,34.5,18.966445,25.5,False,False,True,False
+PRT,Portugal,2014,10.21,34.1,19.241884,25.5,False,False,True,False
+PRT,Portugal,2015,10.33,33.7,19.526117,25.5,False,False,False,False
+PRT,Portugal,2016,9.61,33.3,19.819273,25.5,False,False,True,False
+PRT,Portugal,2017,10.52497499,33.0,20.120077,25.5,False,False,True,False
+PRT,Portugal,2018,10.32099131,32.6,20.42679,,False,False,False,False
+PRT,Portugal,2019,10.81482556,32.3,20.743756,,False,False,False,False
+PRY,Paraguay,2010,6.280416615,56.4,23.409918,18.4,False,False,False,False
+PRY,Paraguay,2011,6.254480964,56.6,24.106807,17.64,False,False,True,False
+PRY,Paraguay,2012,5.980201937,56.6,24.825747,16.88,False,False,True,False
+PRY,Paraguay,2013,5.923691799,56.6,25.565448,16.119999999999997,False,False,True,False
+PRY,Paraguay,2014,5.566575325,56.6,26.326206,15.36,False,False,True,False
+PRY,Paraguay,2015,5.357933709,56.6,27.1074,14.6,False,False,False,False
+PRY,Paraguay,2016,5.540499269,56.5,27.905527,14.6,False,False,True,False
+PRY,Paraguay,2017,5.692774143,56.5,28.715715,14.6,False,False,True,False
+PRY,Paraguay,2018,5.716055727,56.4,29.535466,,False,False,False,False
+PRY,Paraguay,2019,5.774424472,56.4,30.369297,,False,False,False,False
+QAT,Qatar,2010,1.168003332,43.1,34.429926,12.5,False,False,False,False
+QAT,Qatar,2011,1.202437421,42.9,35.274398,12.5,False,False,True,False
+QAT,Qatar,2012,1.206753078,42.6,36.105171,12.5,False,False,True,False
+QAT,Qatar,2013,1.204190294,42.4,36.905539,12.5,False,False,True,False
+QAT,Qatar,2014,1.133236849,42.1,37.616661,12.5,False,False,True,False
+QAT,Qatar,2015,1.097787481,41.8,38.301104,12.5,False,False,False,False
+QAT,Qatar,2016,1.031960361,41.6,39.081308,12.5,False,False,True,False
+QAT,Qatar,2017,1.006164706,41.4,39.87532,12.5,False,False,True,False
+QAT,Qatar,2018,1.002136964,41.1,40.61988,,False,False,False,False
+QAT,Qatar,2019,1.008559773,40.9,41.331652,,False,False,False,False
+ROU,Romania,2010,10.01,47.4,19.794305,33.6,False,False,False,False
+ROU,Romania,2011,9.59,47.5,20.841889,33.28,False,False,True,False
+ROU,Romania,2012,9.68,47.6,21.920428,32.96,False,False,True,False
+ROU,Romania,2013,9.67,47.7,23.026571,32.64,False,False,True,False
+ROU,Romania,2014,9.51,47.8,24.159652,32.32,False,False,True,False
+ROU,Romania,2015,9.49,47.9,25.324944,32.0,False,False,False,False
+ROU,Romania,2016,9.62,48.0,26.518989,32.0,False,False,True,False
+ROU,Romania,2017,10.21,48.1,27.732185,32.0,False,False,True,False
+ROU,Romania,2018,11.02,48.3,28.959119,,False,False,False,False
+ROU,Romania,2019,10.9,48.4,30.200365,,False,False,False,False
+RUS,Russian Federation,2010,10.83,48.6,21.815884,30.8,False,False,False,False
+RUS,Russian Federation,2011,10.77,48.2,22.051413,30.64,False,False,True,False
+RUS,Russian Federation,2012,10.56,47.7,22.269078,30.48,False,False,True,False
+RUS,Russian Federation,2013,9.77,47.3,22.476029,30.32,False,False,True,False
+RUS,Russian Federation,2014,8.86,46.8,22.670488,30.16,False,False,True,False
+RUS,Russian Federation,2015,8.06,46.3,22.859383,30.0,False,False,False,False
+RUS,Russian Federation,2016,7.73,45.8,23.044908,30.0,False,False,True,False
+RUS,Russian Federation,2017,7.15,45.3,23.227727,30.0,False,False,True,False
+RUS,Russian Federation,2018,7.28,44.8,23.409867,,False,False,False,False
+RUS,Russian Federation,2019,7.29,44.3,23.593754,,False,False,False,False
+RWA,Rwanda,2010,1.551102028,32.6,2.1225287,18.6,False,False,False,False
+RWA,Rwanda,2011,1.521481489,32.4,2.2758374,18.200000000000003,False,False,True,False
+RWA,Rwanda,2012,1.631520417,32.1,2.4400327,17.8,False,False,True,False
+RWA,Rwanda,2013,1.701608928,31.8,2.6162062,17.400000000000002,False,False,True,False
+RWA,Rwanda,2014,1.567829599,31.5,2.8061675,17.0,False,False,True,False
+RWA,Rwanda,2015,1.787149269,31.1,3.011165,16.6,False,False,False,False
+RWA,Rwanda,2016,1.877969664,30.8,3.2320216,16.6,False,False,True,False
+RWA,Rwanda,2017,1.745569742,30.5,3.4696966,16.6,False,False,True,False
+RWA,Rwanda,2018,1.879397838,30.2,3.7236981,,False,False,False,False
+RWA,Rwanda,2019,2.170076567,29.8,3.994552,,False,False,False,False
+SAU,Saudi Arabia,2010,,34.7,33.777982,14.3,False,False,False,False
+SAU,Saudi Arabia,2011,,34.7,34.410015,14.32,False,False,True,False
+SAU,Saudi Arabia,2012,,34.6,35.023317,14.34,False,False,True,False
+SAU,Saudi Arabia,2013,,34.5,35.622826,14.360000000000001,False,False,True,False
+SAU,Saudi Arabia,2014,,34.4,36.221495,14.38,False,False,True,False
+SAU,Saudi Arabia,2015,,34.3,36.818999,14.4,False,False,False,False
+SAU,Saudi Arabia,2016,,34.2,37.41985,14.4,False,False,True,False
+SAU,Saudi Arabia,2017,,34.2,37.997967,14.4,False,False,True,False
+SAU,Saudi Arabia,2018,,34.1,38.538772,,False,False,False,False
+SAU,Saudi Arabia,2019,,34.0,39.058155,,False,False,False,False
+SDN,Sudan,2010,0.0,42.2,10.667685,,False,False,False,False
+SDN,Sudan,2011,0.0,42.2,11.076662,,False,False,False,False
+SDN,Sudan,2012,0.0,42.1,11.492568,,False,False,False,False
+SDN,Sudan,2013,0.0,42.0,11.922456,,False,False,False,False
+SDN,Sudan,2014,0.0,41.8,12.372776,,False,False,False,False
+SDN,Sudan,2015,0.0,41.6,12.845907,,False,False,False,False
+SDN,Sudan,2016,0.0,41.4,13.346794,,False,False,False,False
+SDN,Sudan,2017,0.0,41.2,13.877486,,False,False,False,False
+SDN,Sudan,2018,0.0,41.0,14.437759,,False,False,False,False
+SDN,Sudan,2019,0.0,40.8,15.029238,,False,False,False,False
+SEN,Senegal,2010,0.286739187,41.5,7.2646976,10.2,False,False,False,False
+SEN,Senegal,2011,0.320034433,41.5,7.4558847,9.84,False,False,True,False
+SEN,Senegal,2012,0.279914656,41.4,7.6410905,9.48,False,False,True,False
+SEN,Senegal,2013,0.255606048,41.3,7.8303859,9.120000000000001,False,False,True,False
+SEN,Senegal,2014,0.256575373,41.1,8.0314547,8.76,False,False,True,False
+SEN,Senegal,2015,0.255237651,41.0,8.2468085,8.4,False,False,False,False
+SEN,Senegal,2016,0.314143035,40.9,8.4790207,8.4,False,False,True,False
+SEN,Senegal,2017,0.314968597,40.7,8.7274112,8.4,False,False,True,False
+SEN,Senegal,2018,0.299706772,40.6,8.991199,,False,False,False,False
+SEN,Senegal,2019,0.32696538,40.5,9.2709564,,False,False,False,False
+SGP,Singapore,2010,1.75,34.4,7.2993159,16.6,False,False,False,False
+SGP,Singapore,2011,1.79,34.1,7.6752648,16.6,False,False,True,False
+SGP,Singapore,2012,1.84,33.7,8.0744609,16.6,False,False,True,False
+SGP,Singapore,2013,1.76,33.4,8.5029058,16.6,False,False,True,False
+SGP,Singapore,2014,1.74,33.0,8.9639753,16.6,False,False,True,False
+SGP,Singapore,2015,1.73,32.7,9.4588876,16.6,False,False,False,False
+SGP,Singapore,2016,1.75,32.4,9.9884853,16.6,False,False,True,False
+SGP,Singapore,2017,1.72,32.1,10.550378,16.6,False,False,True,False
+SGP,Singapore,2018,1.79,31.8,11.145356,,False,False,False,False
+SGP,Singapore,2019,1.79,31.5,11.773539,,False,False,False,False
+SLB,Solomon Islands,2010,0.693776163,25.4,18.48516,40.0,False,False,False,False
+SLB,Solomon Islands,2011,0.653404001,25.9,18.777035,39.66,False,False,True,False
+SLB,Solomon Islands,2012,0.640434654,26.3,19.07538,39.32,False,False,True,False
+SLB,Solomon Islands,2013,0.617232331,26.8,19.382435,38.98,False,False,True,False
+SLB,Solomon Islands,2014,0.646432804,27.3,19.699067,38.64,False,False,True,False
+SLB,Solomon Islands,2015,0.690253194,27.7,20.026182,38.3,False,False,False,False
+SLB,Solomon Islands,2016,0.946936047,28.2,20.364606,38.3,False,False,True,False
+SLB,Solomon Islands,2017,2.43848377,28.7,20.710392,38.3,False,False,True,False
+SLB,Solomon Islands,2018,1.075779805,29.2,21.063668,,False,False,False,False
+SLB,Solomon Islands,2019,0.838940374,29.8,21.426918,,False,False,False,False
+SLE,Sierra Leone,2010,0.203121443,42.8,5.677221,23.9,False,False,False,False
+SLE,Sierra Leone,2011,0.239500979,42.7,5.7644635,22.799999999999997,False,False,True,False
+SLE,Sierra Leone,2012,0.288628425,42.5,5.8395065,21.7,False,False,True,False
+SLE,Sierra Leone,2013,0.331229789,42.3,5.9137195,20.599999999999998,False,False,True,False
+SLE,Sierra Leone,2014,0.231422201,42.0,5.9979577,19.5,False,False,True,False
+SLE,Sierra Leone,2015,0.235575509,41.8,6.0945209,18.4,False,False,False,False
+SLE,Sierra Leone,2016,0.178722344,41.6,6.2052224,18.4,False,False,True,False
+SLE,Sierra Leone,2017,0.160896954,41.3,6.3291676,18.4,False,False,True,False
+SLE,Sierra Leone,2018,0.186788957,41.1,6.4654015,,False,False,False,False
+SLE,Sierra Leone,2019,0.187611705,40.8,6.6132195,,False,False,False,False
+SLV,El Salvador,2010,2.322049392,31.8,24.089871,11.9,False,False,False,False
+SLV,El Salvador,2011,2.338120727,32.0,24.681477,11.620000000000001,False,False,True,False
+SLV,El Salvador,2012,2.444601462,32.1,25.268918,11.34,False,False,True,False
+SLV,El Salvador,2013,2.380246834,32.2,25.846514,11.06,False,False,True,False
+SLV,El Salvador,2014,2.487463185,32.2,26.418677,10.78,False,False,True,False
+SLV,El Salvador,2015,2.579596291,32.3,26.984721,10.5,False,False,False,False
+SLV,El Salvador,2016,2.682191349,32.4,27.544028,10.5,False,False,True,False
+SLV,El Salvador,2017,2.85904855,32.5,28.098318,10.5,False,False,True,False
+SLV,El Salvador,2018,2.992938374,32.6,28.647074,,False,False,False,False
+SLV,El Salvador,2019,3.102107759,32.7,29.194894,,False,False,False,False
+SOM,Somalia,2010,0.0,38.5,8.7591164,,False,False,False,False
+SOM,Somalia,2011,0.0,38.3,9.1521926,,False,False,False,False
+SOM,Somalia,2012,0.0,38.1,9.5553361,,False,False,False,False
+SOM,Somalia,2013,0.0,37.9,9.9717513,,False,False,False,False
+SOM,Somalia,2014,0.0,37.6,10.406199,,False,False,False,False
+SOM,Somalia,2015,0.0,37.3,10.859647,,False,False,False,False
+SOM,Somalia,2016,0.0,37.0,11.333711,,False,False,False,False
+SOM,Somalia,2017,0.0,36.7,11.828548,,False,False,False,False
+SOM,Somalia,2018,0.0,36.4,12.342302,,False,False,False,False
+SOM,Somalia,2019,0.0,36.1,12.87439,,False,False,False,False
+SRB,Serbia,2010,9.173741352,46.2,17.525996,42.4,False,False,False,False
+SRB,Serbia,2011,9.241453797,46.2,17.866984,42.14,False,False,True,False
+SRB,Serbia,2012,9.189415018,46.2,18.214916,41.88,False,False,True,False
+SRB,Serbia,2013,8.961688903,46.2,18.572606,41.62,False,False,True,False
+SRB,Serbia,2014,8.155550195,46.1,18.943582,41.36,False,False,True,False
+SRB,Serbia,2015,7.957217729,46.1,19.334002,41.1,False,False,False,False
+SRB,Serbia,2016,7.886328681,46.1,19.744027,41.1,False,False,True,False
+SRB,Serbia,2017,8.015578741,46.1,20.167436,41.1,False,False,True,False
+SRB,Serbia,2018,8.253845226,46.1,20.601805,,False,False,False,False
+SRB,Serbia,2019,8.088425802,46.1,21.048439,,False,False,False,False
+SSD,South Sudan,2010,,37.0,4.8434179,,False,False,False,False
+SSD,South Sudan,2011,,36.8,5.0682563,,False,False,False,False
+SSD,South Sudan,2012,,36.6,5.303603,,False,False,False,False
+SSD,South Sudan,2013,,36.3,5.5506684,,False,False,False,False
+SSD,South Sudan,2014,,36.0,5.818427,,False,False,False,False
+SSD,South Sudan,2015,,35.6,6.1038628,,False,False,False,False
+SSD,South Sudan,2016,,35.3,6.4081252,,False,False,False,False
+SSD,South Sudan,2017,,34.9,6.7378163,,False,False,False,False
+SSD,South Sudan,2018,,34.6,7.0818573,,False,False,False,False
+SSD,South Sudan,2019,,34.2,7.4338667,,False,False,False,False
+STP,São Tomé and Principe,2010,5.315032897,,,,False,False,False,False
+STP,São Tomé and Principe,2011,5.321685315,,,,False,False,False,False
+STP,São Tomé and Principe,2012,5.401526894,,,,False,False,False,False
+STP,São Tomé and Principe,2013,5.971966343,,,,False,False,False,False
+STP,São Tomé and Principe,2014,5.423662916,,,,False,False,False,False
+STP,São Tomé and Principe,2015,4.79234887,,,,False,False,False,False
+STP,São Tomé and Principe,2016,4.500408754,,,,False,False,False,False
+STP,São Tomé and Principe,2017,3.800437827,,,,False,False,False,False
+STP,São Tomé and Principe,2018,4.198489283,,,,False,False,False,False
+STP,São Tomé and Principe,2019,4.571102197,,,,False,False,False,False
+SUR,Suriname,2010,5.063994866,42.1,21.646167,,False,False,False,False
+SUR,Suriname,2011,5.418513084,42.3,22.224969,,False,False,False,False
+SUR,Suriname,2012,5.543899802,42.4,22.802134,,False,False,False,False
+SUR,Suriname,2013,5.67476725,42.5,23.379138,,False,False,False,False
+SUR,Suriname,2014,5.253306865,42.6,23.962612,,False,False,False,False
+SUR,Suriname,2015,4.619649845,42.6,24.554852,,False,False,False,False
+SUR,Suriname,2016,5.52314934,42.7,25.159207,,False,False,False,False
+SUR,Suriname,2017,5.59315332,42.8,25.774246,,False,False,False,False
+SUR,Suriname,2018,5.867119154,42.8,26.397276,,False,False,False,False
+SUR,Suriname,2019,6.362814487,42.9,27.028263,,False,False,False,False
+SVK,Slovak Republic,2010,10.17,,,,False,False,False,False
+SVK,Slovak Republic,2011,10.29,,,,False,False,False,False
+SVK,Slovak Republic,2012,10.16,,,,False,False,False,False
+SVK,Slovak Republic,2013,9.92,,,,False,False,False,False
+SVK,Slovak Republic,2014,10.27,,,,False,False,False,False
+SVK,Slovak Republic,2015,10.27,,,,False,False,False,False
+SVK,Slovak Republic,2016,9.92,,,,False,False,False,False
+SVK,Slovak Republic,2017,9.7,,,,False,False,False,False
+SVK,Slovak Republic,2018,10.08,,,,False,False,False,False
+SVK,Slovak Republic,2019,10.44,,,,False,False,False,False
+SVN,Slovenia,2010,10.4,45.4,15.995561,23.0,False,False,False,False
+SVN,Slovenia,2011,10.6,45.4,16.13026,22.76,False,False,True,False
+SVN,Slovenia,2012,11.0,45.4,16.269703,22.52,False,False,True,False
+SVN,Slovenia,2013,9.6,45.4,16.423593,22.28,False,False,True,False
+SVN,Slovenia,2014,10.9,45.4,16.602032,22.04,False,False,True,False
+SVN,Slovenia,2015,11.5,45.4,16.820741,21.8,False,False,False,False
+SVN,Slovenia,2016,10.5,45.4,17.082401,21.8,False,False,True,False
+SVN,Slovenia,2017,10.1,45.4,17.380986,21.8,False,False,True,False
+SVN,Slovenia,2018,10.0,45.3,17.714985,,False,False,False,False
+SVN,Slovenia,2019,11.1,45.3,18.085465,,False,False,False,False
+SWE,Sweden,2010,7.38,36.0,14.538844,33.4,False,False,False,False
+SWE,Sweden,2011,7.31,35.4,14.597413,32.379999999999995,False,False,True,False
+SWE,Sweden,2012,7.23,34.8,14.634913,31.36,False,False,True,False
+SWE,Sweden,2013,7.32,34.1,14.665705,30.34,False,False,True,False
+SWE,Sweden,2014,7.2,33.4,14.700232,29.32,False,False,True,False
+SWE,Sweden,2015,7.13,32.8,14.743261,28.3,False,False,False,False
+SWE,Sweden,2016,7.15,32.1,14.79968,28.3,False,False,True,False
+SWE,Sweden,2017,7.04,31.4,14.862199,28.3,False,False,True,False
+SWE,Sweden,2018,7.19,30.8,14.927706,,False,False,False,False
+SWE,Sweden,2019,7.14,30.2,14.998071,,False,False,False,False
+SWZ,Eswatini,2010,5.830890929,44.6,21.979542,10.8,False,False,False,False
+SWZ,Eswatini,2011,6.099630797,44.5,22.580491,10.68,False,False,True,False
+SWZ,Eswatini,2012,5.951506052,44.4,23.180065,10.56,False,False,True,False
+SWZ,Eswatini,2013,7.946003615,44.2,23.784496,10.44,False,False,True,False
+SWZ,Eswatini,2014,6.93622794,43.9,24.401437,10.32,False,False,True,False
+SWZ,Eswatini,2015,6.191046037,43.7,25.033963,10.2,False,False,False,False
+SWZ,Eswatini,2016,6.888026045,43.4,25.685927,10.2,False,False,True,False
+SWZ,Eswatini,2017,6.994669933,43.1,26.355267,10.2,False,False,True,False
+SWZ,Eswatini,2018,7.324502487,42.8,27.042037,,False,False,False,False
+SWZ,Eswatini,2019,7.039247744,42.5,27.744937,,False,False,False,False
+SYC,Seychelles,2010,7.435849177,47.9,24.417603,24.9,False,False,False,False
+SYC,Seychelles,2011,9.42268738,47.7,24.779765,24.459999999999997,False,False,True,False
+SYC,Seychelles,2012,10.45447011,47.3,25.128081,24.02,False,False,True,False
+SYC,Seychelles,2013,9.742840044,47.0,25.472069,23.58,False,False,True,False
+SYC,Seychelles,2014,11.50381769,46.6,25.832227,23.14,False,False,True,False
+SYC,Seychelles,2015,12.58626696,46.1,26.208946,22.7,False,False,False,False
+SYC,Seychelles,2016,14.24655354,45.7,26.60358,22.7,False,False,True,False
+SYC,Seychelles,2017,13.64141517,45.2,27.012572,22.7,False,False,True,False
+SYC,Seychelles,2018,11.25934074,44.8,27.437264,,False,False,False,False
+SYC,Seychelles,2019,12.45725764,44.3,27.877891,,False,False,False,False
+SYR,Syrian Arab Republic,2010,0.724563103,43.1,28.217763,,False,False,False,False
+SYR,Syrian Arab Republic,2011,0.551572223,43.0,28.709683,,False,False,False,False
+SYR,Syrian Arab Republic,2012,0.194902831,42.8,29.210988,,False,False,False,False
+SYR,Syrian Arab Republic,2013,0.142471225,42.6,29.735985,,False,False,False,False
+SYR,Syrian Arab Republic,2014,0.20111896,42.4,30.274993,,False,False,False,False
+SYR,Syrian Arab Republic,2015,0.244097523,42.1,30.803534,,False,False,False,False
+SYR,Syrian Arab Republic,2016,0.185532257,41.8,31.320381,,False,False,False,False
+SYR,Syrian Arab Republic,2017,0.123276574,41.6,31.805724,,False,False,False,False
+SYR,Syrian Arab Republic,2018,0.155179386,41.4,32.250452,,False,False,False,False
+SYR,Syrian Arab Republic,2019,0.120035569,41.1,32.668421,,False,False,False,False
+TCD,Chad,2010,0.530891817,39.6,4.1880984,9.0,False,False,False,False
+TCD,Chad,2011,0.584715115,39.5,4.3451358,8.86,False,False,True,False
+TCD,Chad,2012,0.596133571,39.3,4.4947568,8.72,False,False,True,False
+TCD,Chad,2013,0.623047045,39.1,4.6458583,8.58,False,False,True,False
+TCD,Chad,2014,0.669597369,38.9,4.8062664,8.440000000000001,False,False,True,False
+TCD,Chad,2015,0.668659612,38.7,4.9796738,8.3,False,False,False,False
+TCD,Chad,2016,0.643830232,38.5,5.1700816,8.3,False,False,True,False
+TCD,Chad,2017,0.56956361,38.3,5.3779185,8.3,False,False,True,False
+TCD,Chad,2018,0.530316634,38.1,5.6027964,,False,False,False,False
+TCD,Chad,2019,0.490542779,37.9,5.8463652,,False,False,False,False
+TGO,Togo,2010,1.302530472,37.5,6.5160416,10.2,False,False,False,False
+TGO,Togo,2011,1.18226028,37.3,6.8233915,9.82,False,False,True,False
+TGO,Togo,2012,1.077229124,37.2,7.1321554,9.44,False,False,True,False
+TGO,Togo,2013,1.270779068,37.0,7.4530482,9.06,False,False,True,False
+TGO,Togo,2014,1.157876537,36.8,7.7969313,8.68,False,False,True,False
+TGO,Togo,2015,1.263681611,36.6,8.1683271,8.3,False,False,False,False
+TGO,Togo,2016,1.10853594,36.5,8.5692115,8.3,False,False,True,False
+TGO,Togo,2017,0.967521118,36.3,8.9988939,8.3,False,False,True,False
+TGO,Togo,2018,0.992988674,36.1,9.4565094,,False,False,False,False
+TGO,Togo,2019,0.967974849,36.0,9.9421658,,False,False,False,False
+THA,Thailand,2010,6.18,27.5,9.1482021,22.6,False,False,False,False
+THA,Thailand,2011,6.59,27.6,9.5605955,22.3,False,False,True,False
+THA,Thailand,2012,7.07,27.8,9.987139,22.0,False,False,True,False
+THA,Thailand,2013,6.86,27.9,10.432356,21.700000000000003,False,False,True,False
+THA,Thailand,2014,6.88,28.1,10.898519,21.400000000000002,False,False,True,False
+THA,Thailand,2015,6.9,28.3,11.387642,21.1,False,False,False,False
+THA,Thailand,2016,7.08,28.5,11.899276,21.1,False,False,True,False
+THA,Thailand,2017,7.3,28.7,12.430901,21.1,False,False,True,False
+THA,Thailand,2018,5.95,29.0,12.980361,,False,False,False,False
+THA,Thailand,2019,6.81,29.2,13.548583,,False,False,False,False
+TJK,Tajikistan,2010,0.691315725,45.5,15.836452,,False,False,False,False
+TJK,Tajikistan,2011,0.674985306,45.7,16.464162,,False,False,False,False
+TJK,Tajikistan,2012,0.767598965,46.0,17.107262,,False,False,False,False
+TJK,Tajikistan,2013,0.77465301,46.2,17.762266,,False,False,False,False
+TJK,Tajikistan,2014,0.843449231,46.4,18.424003,,False,False,False,False
+TJK,Tajikistan,2015,0.936812916,46.5,19.091526,,False,False,False,False
+TJK,Tajikistan,2016,0.897605917,46.6,19.764823,,False,False,False,False
+TJK,Tajikistan,2017,0.879149427,46.7,20.435251,,False,False,False,False
+TJK,Tajikistan,2018,0.86720454,46.8,21.098851,,False,False,False,False
+TJK,Tajikistan,2019,0.820960913,46.8,21.760088,,False,False,False,False
+TKM,Turkmenistan,2010,2.782253092,38.6,16.274472,9.3,False,False,False,False
+TKM,Turkmenistan,2011,2.799447554,38.7,16.738339,8.940000000000001,False,False,True,False
+TKM,Turkmenistan,2012,2.912854063,38.8,17.196278,8.58,False,False,True,False
+TKM,Turkmenistan,2013,3.076741754,38.9,17.646919,8.22,False,False,True,False
+TKM,Turkmenistan,2014,3.023887519,38.9,18.087298,7.86,False,False,True,False
+TKM,Turkmenistan,2015,3.048016993,39.0,18.519367,7.5,False,False,False,False
+TKM,Turkmenistan,2016,2.989870098,39.0,18.945944,7.5,False,False,True,False
+TKM,Turkmenistan,2017,2.896453082,39.0,19.360942,7.5,False,False,True,False
+TKM,Turkmenistan,2018,2.743747132,39.0,19.765076,,False,False,False,False
+TKM,Turkmenistan,2019,2.810272648,39.0,20.166442,,False,False,False,False
+TLS,Timor-Leste,2010,0.307751743,33.8,0.9940898,46.2,False,False,False,False
+TLS,Timor-Leste,2011,0.469241368,34.0,1.0616132,45.56,False,False,True,False
+TLS,Timor-Leste,2012,0.531395946,34.1,1.1350038,44.92,False,False,True,False
+TLS,Timor-Leste,2013,0.513232168,34.2,1.2150239,44.28,False,False,True,False
+TLS,Timor-Leste,2014,0.559207641,34.3,1.302671,43.64,False,False,True,False
+TLS,Timor-Leste,2015,0.586857057,34.5,1.398836,43.0,False,False,False,False
+TLS,Timor-Leste,2016,0.554367591,34.6,1.5040748,43.0,False,False,True,False
+TLS,Timor-Leste,2017,0.632263677,34.8,1.6186684,43.0,False,False,True,False
+TLS,Timor-Leste,2018,0.252599058,35.1,1.7427497,,False,False,False,False
+TLS,Timor-Leste,2019,0.141279144,35.3,1.8767636,,False,False,False,False
+TON,Tonga,2010,0.76704139,37.0,61.022949,32.3,False,False,False,False
+TON,Tonga,2011,0.641775529,37.7,61.896342,32.199999999999996,False,False,True,False
+TON,Tonga,2012,0.114487614,38.3,62.774438,32.1,False,False,True,False
+TON,Tonga,2013,0.154539462,39.0,63.655198,32.0,False,False,True,False
+TON,Tonga,2014,0.199264428,39.7,64.555115,31.9,False,False,True,False
+TON,Tonga,2015,0.303701797,40.4,65.468103,31.8,False,False,False,False
+TON,Tonga,2016,0.303698245,41.1,66.38236,31.8,False,False,True,False
+TON,Tonga,2017,0.303672699,41.9,67.287731,31.8,False,False,True,False
+TON,Tonga,2018,0.296214476,42.6,68.180418,,False,False,False,False
+TON,Tonga,2019,0.2937848,43.3,69.06603,,False,False,False,False
+TTO,Trinidad and Tobago,2010,4.883825928,40.7,24.129583,,False,False,False,False
+TTO,Trinidad and Tobago,2011,4.805314036,41.0,24.441309,,False,False,False,False
+TTO,Trinidad and Tobago,2012,4.867914007,41.2,24.738815,,False,False,False,False
+TTO,Trinidad and Tobago,2013,4.787837077,41.4,25.027981,,False,False,False,False
+TTO,Trinidad and Tobago,2014,4.784761131,41.6,25.321722,,False,False,False,False
+TTO,Trinidad and Tobago,2015,4.773460785,41.7,25.62941,,False,False,False,False
+TTO,Trinidad and Tobago,2016,4.477521024,41.9,25.94943,,False,False,False,False
+TTO,Trinidad and Tobago,2017,4.334093422,42.1,26.27933,,False,False,False,False
+TTO,Trinidad and Tobago,2018,4.340079251,42.2,26.594681,,False,False,False,False
+TTO,Trinidad and Tobago,2019,4.363042676,42.4,26.931399,,False,False,False,False
+TUN,Tunisia,2010,1.409785859,34.6,21.09876,25.0,False,False,False,False
+TUN,Tunisia,2011,1.380420336,34.7,21.566531,24.6,False,False,True,False
+TUN,Tunisia,2012,1.409431379,34.7,22.036463,24.2,False,False,True,False
+TUN,Tunisia,2013,1.384339798,34.7,22.501312,23.8,False,False,True,False
+TUN,Tunisia,2014,1.516770238,34.7,22.977675,23.4,False,False,True,False
+TUN,Tunisia,2015,1.586475248,34.7,23.466316,23.0,False,False,False,False
+TUN,Tunisia,2016,1.565641131,34.7,23.968665,23.0,False,False,True,False
+TUN,Tunisia,2017,1.553811204,34.7,24.455029,23.0,False,False,True,False
+TUN,Tunisia,2018,1.55537861,34.7,24.92065,,False,False,False,False
+TUN,Tunisia,2019,1.598794688,34.7,25.380853,,False,False,False,False
+TUR,Türkiye,2010,1.53,35.0,28.847486,32.0,False,False,False,False
+TUR,Türkiye,2011,1.57,34.7,29.224059,31.86,False,False,True,False
+TUR,Türkiye,2012,1.57,34.5,29.602429,31.72,False,False,True,False
+TUR,Türkiye,2013,1.43,34.2,29.981408,31.580000000000002,False,False,True,False
+TUR,Türkiye,2014,1.48,34.0,30.367914,31.44,False,False,True,False
+TUR,Türkiye,2015,1.38,33.7,30.763829,31.3,False,False,False,False
+TUR,Türkiye,2016,1.33,33.5,31.171954,31.3,False,False,True,False
+TUR,Türkiye,2017,1.42,33.2,31.559798,31.3,False,False,True,False
+TUR,Türkiye,2018,1.48,33.0,31.916896,,False,False,False,False
+TUR,Türkiye,2019,1.32,32.8,32.258266,,False,False,False,False
+TUV,Tuvalu,2010,0.46,44.9,57.901436,40.7,False,False,False,False
+TUV,Tuvalu,2011,0.19,45.6,58.406603,40.080000000000005,False,False,True,False
+TUV,Tuvalu,2012,1.741210494,46.2,58.894593,39.46,False,False,True,False
+TUV,Tuvalu,2013,1.848013888,46.9,59.400558,38.84,False,False,True,False
+TUV,Tuvalu,2014,1.844422171,47.5,59.920871,38.22,False,False,True,False
+TUV,Tuvalu,2015,1.843553852,48.1,60.435659,37.6,False,False,False,False
+TUV,Tuvalu,2016,1.844639397,48.7,60.945153,37.6,False,False,True,False
+TUV,Tuvalu,2017,0.23,49.3,61.450106,37.6,False,False,True,False
+TUV,Tuvalu,2018,0.23,49.9,62.006187,,False,False,False,False
+TUV,Tuvalu,2019,0.23,50.4,62.553275,,False,False,False,False
+TZA,Tanzania,2010,6.432303144,,,,False,False,False,False
+TZA,Tanzania,2011,6.173945346,,,,False,False,False,False
+TZA,Tanzania,2012,6.048702126,,,,False,False,False,False
+TZA,Tanzania,2013,5.849641326,,,,False,False,False,False
+TZA,Tanzania,2014,6.313778438,,,,False,False,False,False
+TZA,Tanzania,2015,6.313427358,,,,False,False,False,False
+TZA,Tanzania,2016,5.726919416,,,,False,False,False,False
+TZA,Tanzania,2017,5.11310286,,,,False,False,False,False
+TZA,Tanzania,2018,4.799332849,,,,False,False,False,False
+TZA,Tanzania,2019,5.241811645,,,,False,False,False,False
+UGA,Uganda,2010,9.064280082,35.0,3.7068922,14.6,False,False,False,False
+UGA,Uganda,2011,8.814299672,34.8,3.9289642,13.879999999999999,False,False,True,False
+UGA,Uganda,2012,8.286220141,34.6,4.1658923,13.16,False,False,True,False
+UGA,Uganda,2013,7.983733231,34.3,4.4210281,12.44,False,False,True,False
+UGA,Uganda,2014,7.952140223,34.0,4.6963621,11.719999999999999,False,False,True,False
+UGA,Uganda,2015,8.111306866,33.7,4.9938042,11.0,False,False,False,False
+UGA,Uganda,2016,6.965646295,33.4,5.315271,11.0,False,False,True,False
+UGA,Uganda,2017,6.511960027,33.1,5.663712,11.0,False,False,True,False
+UGA,Uganda,2018,6.58184703,32.8,6.0418431,,False,False,False,False
+UGA,Uganda,2019,6.600099946,32.5,6.4514853,,False,False,False,False
+UKR,Ukraine,2010,7.82,48.1,21.39525,31.3,False,False,False,False
+UKR,Ukraine,2011,8.78,47.6,21.608192,30.740000000000002,False,False,True,False
+UKR,Ukraine,2012,8.59,47.1,21.804969,30.18,False,False,True,False
+UKR,Ukraine,2013,8.77,46.6,21.992561,29.62,False,False,True,False
+UKR,Ukraine,2014,7.62,46.0,22.171605,29.06,False,False,True,False
+UKR,Ukraine,2015,6.08,45.5,22.349669,28.5,False,False,False,False
+UKR,Ukraine,2016,5.78,44.9,22.527543,28.5,False,False,True,False
+UKR,Ukraine,2017,5.2,44.3,22.701436,28.5,False,False,True,False
+UKR,Ukraine,2018,5.52,43.7,22.873433,,False,False,False,False
+UKR,Ukraine,2019,5.8,43.1,23.04863,,False,False,False,False
+URY,Uruguay,2010,6.2,42.1,23.579544,27.6,False,False,False,False
+URY,Uruguay,2011,6.24,42.2,24.283564,26.96,False,False,True,False
+URY,Uruguay,2012,6.07,42.3,25.01168,26.32,False,False,True,False
+URY,Uruguay,2013,6.14,42.3,25.761399,25.68,False,False,True,False
+URY,Uruguay,2014,6.33,42.3,26.535496,25.04,False,False,True,False
+URY,Uruguay,2015,6.22,42.3,27.330664,24.4,False,False,False,False
+URY,Uruguay,2016,5.77,42.3,28.145823,24.4,False,False,True,False
+URY,Uruguay,2017,5.85,42.4,28.975448,24.4,False,False,True,False
+URY,Uruguay,2018,5.8,42.4,29.817289,,False,False,False,False
+URY,Uruguay,2019,5.61,42.4,30.674666,,False,False,False,False
+USA,United States,2010,8.55,,,,False,False,False,False
+USA,United States,2011,8.67,,,,False,False,False,False
+USA,United States,2012,8.82,,,,False,False,False,False
+USA,United States,2013,8.82,,,,False,False,False,False
+USA,United States,2014,8.82,,,,False,False,False,False
+USA,United States,2015,8.79,,,,False,False,False,False
+USA,United States,2016,8.9,,,,False,False,False,False
+USA,United States,2017,8.9,,,,False,False,False,False
+USA,United States,2018,8.93,,,,False,False,False,False
+USA,United States,2019,8.97,,,,False,False,False,False
+UZB,Uzbekistan,2010,1.74,39.3,19.267955,21.9,False,False,False,False
+UZB,Uzbekistan,2011,1.72,40.1,20.150897,21.439999999999998,False,False,True,False
+UZB,Uzbekistan,2012,1.95,40.8,21.047696,20.98,False,False,True,False
+UZB,Uzbekistan,2013,1.94,41.5,21.955667,20.52,False,False,True,False
+UZB,Uzbekistan,2014,2.5,42.3,22.868882,20.060000000000002,False,False,True,False
+UZB,Uzbekistan,2015,2.59,43.0,23.780942,19.6,False,False,False,False
+UZB,Uzbekistan,2016,2.4,43.6,24.690849,19.6,False,False,True,False
+UZB,Uzbekistan,2017,2.81,44.3,25.589213,19.6,False,False,True,False
+UZB,Uzbekistan,2018,2.46,45.0,26.475865,,False,False,False,False
+UZB,Uzbekistan,2019,2.45,45.7,27.358216,,False,False,False,False
+VCT,St. Vincent and the Grenadines,2010,6.654458745,,,,False,False,False,False
+VCT,St. Vincent and the Grenadines,2011,6.702750949,,,,False,False,False,False
+VCT,St. Vincent and the Grenadines,2012,6.626923316,,,,False,False,False,False
+VCT,St. Vincent and the Grenadines,2013,6.769372297,,,,False,False,False,False
+VCT,St. Vincent and the Grenadines,2014,6.840001318,,,,False,False,False,False
+VCT,St. Vincent and the Grenadines,2015,7.254031919,,,,False,False,False,False
+VCT,St. Vincent and the Grenadines,2016,7.672896234,,,,False,False,False,False
+VCT,St. Vincent and the Grenadines,2017,7.677232508,,,,False,False,False,False
+VCT,St. Vincent and the Grenadines,2018,7.545649951,,,,False,False,False,False
+VCT,St. Vincent and the Grenadines,2019,7.60699544,,,,False,False,False,False
+VEN,"Venezuela, RB",2010,7.37234862,,,,False,False,False,False
+VEN,"Venezuela, RB",2011,6.866000832,,,,False,False,False,False
+VEN,"Venezuela, RB",2012,6.828646138,,,,False,False,False,False
+VEN,"Venezuela, RB",2013,6.861593428,,,,False,False,False,False
+VEN,"Venezuela, RB",2014,6.571350081,,,,False,False,False,False
+VEN,"Venezuela, RB",2015,6.142864258,,,,False,False,False,False
+VEN,"Venezuela, RB",2016,4.010640131,,,,False,False,False,False
+VEN,"Venezuela, RB",2017,3.231756364,,,,False,False,False,False
+VEN,"Venezuela, RB",2018,2.579929991,,,,False,False,False,False
+VEN,"Venezuela, RB",2019,2.141768274,,,,False,False,False,False
+VNM,Viet Nam,2010,2.348336711,28.6,0.6988436,26.6,False,False,False,False
+VNM,Viet Nam,2011,2.556395595,28.7,0.76660826,26.26,False,False,True,False
+VNM,Viet Nam,2012,2.670359576,28.8,0.84088426,25.92,False,False,True,False
+VNM,Viet Nam,2013,2.77936482,28.9,0.92207147,25.58,False,False,True,False
+VNM,Viet Nam,2014,2.815319619,29.0,1.0106123,25.24,False,False,True,False
+VNM,Viet Nam,2015,3.029125999,29.1,1.1069048,24.9,False,False,False,False
+VNM,Viet Nam,2016,3.247547852,29.2,1.2110491,24.9,False,False,True,False
+VNM,Viet Nam,2017,3.36319892,29.4,1.3228442,24.9,False,False,True,False
+VNM,Viet Nam,2018,3.311191514,29.5,1.4426946,,False,False,False,False
+VNM,Viet Nam,2019,3.348654657,29.7,1.5709221,,False,False,False,False
+VUT,Vanuatu,2010,1.085635464,37.4,18.10144,,False,False,False,False
+VUT,Vanuatu,2011,1.488357139,37.7,18.283695,,False,False,False,False
+VUT,Vanuatu,2012,1.365161148,37.9,18.475892,,False,False,False,False
+VUT,Vanuatu,2013,1.237934034,38.2,18.683463,,False,False,False,False
+VUT,Vanuatu,2014,1.587412368,38.4,18.907145,,False,False,False,False
+VUT,Vanuatu,2015,1.250821738,38.6,19.147116,,False,False,False,False
+VUT,Vanuatu,2016,1.646541891,38.8,19.40594,,False,False,False,False
+VUT,Vanuatu,2017,2.239200972,39.0,19.680123,,False,False,False,False
+VUT,Vanuatu,2018,1.634693378,39.3,19.965616,,False,False,False,False
+VUT,Vanuatu,2019,2.146007081,39.5,20.266366,,False,False,False,False
+WSM,Samoa,2010,2.921310453,35.0,54.266131,31.2,False,False,False,False
+WSM,Samoa,2011,2.674172649,35.4,54.972059,30.38,False,False,True,False
+WSM,Samoa,2012,2.732664789,35.8,55.66783,29.56,False,False,True,False
+WSM,Samoa,2013,2.61406451,36.2,56.358898,28.740000000000002,False,False,True,False
+WSM,Samoa,2014,2.328892844,36.6,57.044256,27.92,False,False,True,False
+WSM,Samoa,2015,2.304926998,36.9,57.725555,27.1,False,False,False,False
+WSM,Samoa,2016,2.302224115,37.3,58.407652,27.1,False,False,True,False
+WSM,Samoa,2017,2.476005004,37.6,59.089792,27.1,False,False,True,False
+WSM,Samoa,2018,2.570163878,38.0,59.765321,,False,False,False,False
+WSM,Samoa,2019,2.23748821,38.3,60.440767,,False,False,False,False
+YEM,"Yemen, Rep.",2010,0.0,,,,False,False,False,False
+YEM,"Yemen, Rep.",2011,0.0,,,,False,False,False,False
+YEM,"Yemen, Rep.",2012,0.0,,,,False,False,False,False
+YEM,"Yemen, Rep.",2013,0.0,,,,False,False,False,False
+YEM,"Yemen, Rep.",2014,0.0,,,,False,False,False,False
+YEM,"Yemen, Rep.",2015,0.0,,,,False,False,False,False
+YEM,"Yemen, Rep.",2016,0.0,,,,False,False,False,False
+YEM,"Yemen, Rep.",2017,0.0,,,,False,False,False,False
+YEM,"Yemen, Rep.",2018,0.0,,,,False,False,False,False
+YEM,"Yemen, Rep.",2019,0.0,,,,False,False,False,False
+ZAF,South Africa,2010,6.78,45.4,28.13094,22.0,False,False,False,False
+ZAF,South Africa,2011,7.03,45.5,28.402945,21.9,False,False,True,False
+ZAF,South Africa,2012,7.1,45.4,28.633341,21.8,False,False,True,False
+ZAF,South Africa,2013,7.06,45.3,28.839436,21.7,False,False,True,False
+ZAF,South Africa,2014,7.11,45.2,29.023245,21.6,False,False,True,False
+ZAF,South Africa,2015,7.15,45.0,29.17468,21.5,False,False,False,False
+ZAF,South Africa,2016,7.05,44.8,29.387876,21.5,False,False,True,False
+ZAF,South Africa,2017,6.99,44.6,29.641983,21.5,False,False,True,False
+ZAF,South Africa,2018,7.19,44.4,29.859245,,False,False,False,False
+ZAF,South Africa,2019,7.2,44.1,30.081907,,False,False,False,False
+ZMB,Zambia,2010,2.812764444,37.0,6.230763,17.0,False,False,False,False
+ZMB,Zambia,2011,2.665326982,36.6,6.531591,16.76,False,False,True,False
+ZMB,Zambia,2012,2.75163853,36.2,6.8440765,16.52,False,False,True,False
+ZMB,Zambia,2013,2.903571428,35.7,7.1706749,16.28,False,False,True,False
+ZMB,Zambia,2014,3.114038032,35.1,7.5150371,16.04,False,False,True,False
+ZMB,Zambia,2015,3.01192416,34.6,7.8801706,15.8,False,False,False,False
+ZMB,Zambia,2016,3.029735512,34.0,8.2667835,15.8,False,False,True,False
+ZMB,Zambia,2017,3.164391841,33.4,8.6750649,15.8,False,False,True,False
+ZMB,Zambia,2018,3.192188265,32.9,9.1049865,,False,False,False,False
+ZMB,Zambia,2019,2.811612194,32.3,9.5572688,,False,False,False,False
+ZWE,Zimbabwe,2010,4.869950383,43.4,9.422984,15.7,False,False,False,False
+ZWE,Zimbabwe,2011,5.270385344,43.4,9.7395383,15.28,False,False,True,False
+ZWE,Zimbabwe,2012,5.850238795,43.3,10.065372,14.86,False,False,True,False
+ZWE,Zimbabwe,2013,5.745568512,43.2,10.400436,14.44,False,False,True,False
+ZWE,Zimbabwe,2014,5.366602622,43.1,10.750912,14.02,False,False,True,False
+ZWE,Zimbabwe,2015,5.169147506,42.9,11.118134,13.6,False,False,False,False
+ZWE,Zimbabwe,2016,4.873193011,42.8,11.504383,13.6,False,False,True,False
+ZWE,Zimbabwe,2017,4.522960509,42.6,11.910026,13.6,False,False,True,False
+ZWE,Zimbabwe,2018,4.812528218,42.4,12.331657,,False,False,False,False
+ZWE,Zimbabwe,2019,4.910072433,42.3,12.769172,,False,False,False,False
