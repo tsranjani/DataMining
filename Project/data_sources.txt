@@ -1,0 +1,2 @@
+World Bank World Development Indicators GDP per capita - https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
+Current Health Expenditure (per capita USD) - https://data.worldbank.org/indicator/SH.XPD.CHEX.PC.CD
